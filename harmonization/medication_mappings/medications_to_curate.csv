@@ -1,0 +1,1603 @@
+med_generic_name,regex,use,med_set,med_subset
+abacavir,abacavir,include,antimicrobial,antivirals
+abacavir,epzicom,include,antimicrobial,antivirals
+abacavir,kivexa,include,antimicrobial,antivirals
+abacavir,triumeq,include,antimicrobial,antivirals
+abacavir,trizivir,include,antimicrobial,antivirals
+abacavir,ziagen,include,antimicrobial,antivirals
+abatacept,abatacept,include,antirheumatic,
+abatacept,orencia,include,antirheumatic,
+abciximab,abciximab,include,monoclonal anti-glycoprotein,
+acamprosate,acamprosate,include,nervous system,
+acarbose,acarbose,include,alimentary tract and metabolism,
+acebutolol,acebutolol,include,cardiovascular system,
+acebutolol,sectral,include,cardiovascular system,
+aceclofenac,aceclofenac,include,,
+acetaminophen,^ofirmev,include,nervous system,analgesic
+acetaminophen,^percocet,include,nervous system,analgesic
+acetaminophen,^roxicet,include,nervous system,analgesic
+acetaminophen,acephen,include,nervous system,analgesic
+acetaminophen,acetamin,include,nervous system,analgesic
+acetaminophen,acetaminophen,include,nervous system,analgesic
+acetaminophen,cetafen,include,nervous system,analgesic
+acetaminophen,paracetamol,include,nervous system,analgesic
+acetaminophen,tylenol,include,nervous system,analgesic
+acetazolamide,^diamox,include,other,
+acetazolamide,acetazolamid(a|e),include,other,
+acetic_acid,acetic acid,include,,
+acetic_acid,trichloroacetic,exclude,,
+acetylcarnitine,acetylcarnitine,include,nervous system,
+acetylcholine,acetylcholine,include,sensory organs,
+acetylcysteine,acetilcisteina,include,other,
+acetylcysteine,acetylcysteine,include,other,
+acetylsalicylic_acid,acetil\ssalicilico\sacido,include,,
+acetylsalicylic_acid,acetylsalicylic\sacid,include,,
+acetylsalicylic_acid,aspirin,include,,
+acidophilus,acidophilus,include,probiotic,
+acidophilus,lactobacillus,include,probiotic,
+acitretin,acitretin,include,dematological,
+acyclovir,ac(i|y)clovir,include,antimicrobial,antivirals
+acyclovir,valacyclovir,exclude,antimicrobial,antivirals
+adalimumab,adalimumab,include,antineoplastic and immunomodulating agent,
+adefovir_dipivoxil,adefovir dipivoxil,include,antimicrobial,antivirals
+ademetionine,^ademetionine,include,alimentary tract and metabolism,
+adenosine,adenosin(a|e),include,cardiovascular system,
+albendazole,albendazol,include,antimicrobial,anthelmintic
+albendazole,albendazole,include,antimicrobial,anthelmintic
+albumin_05,"^albumin,* human \(5%\)",include,albumin,
+albumin_05,"^albumin,* human 5\s*%",include,albumin,
+albumin_05,^albumin\s*5\s*%,include,albumin,
+albumin_05,^aldesleukin,exclude,albumin,
+albumin_05,^bolus\salbumin\s5%,include,albumin,
+albumin_20,"^human\s*albumin,\s*20\s*%",include,albumin,
+albumin_20,^20% albumin,include,albumin,
+albumin_20,^aldesleukin,exclude,albumin,
+albumin_20,albumina\shumana\s20%,include,albumin,
+albumin_25,"^albumin,* 25\s*%",include,albumin,
+albumin_25,"^albumin,* human \(25%\)",include,albumin,
+albumin_25,"^albumin,* human 25\s*%",include,albumin,
+albumin_25,^aldesleukin,exclude,albumin,
+albumin_25,^bolus\salbumin\s25%,include,albumin,
+albumin_25,crrt.*albumin 25,include,albumin,
+albumin,^albumin,include,albumin,
+aldesleukin,^aldesleukin,include,antineoplastic and immunomodulating agents,
+aldesulfone_sodium,aldesulfone sodium,include,antimicrobial,antimycobacterials
+aldosterone,aldosterone,include,corticosteroid,mineralocorticoids
+alfentanil,alfentanil,include,nervous system,
+allopurinol,allopruinol,include,musculo-skeletal system,
+allopurinol,allopurinol,include,musculo-skeletal system,
+allopurinol,alopurinol,include,musculo-skeletal system,
+alprazolam,alprazolam,include,nervous system,
+alprostadil,alprostadil,include,,
+alteplase,alteplase,include,,
+amantadine,amantadine,include,nervous system,
+ambrisentan,^ambrisentan,include,cardiovascular system,
+ambroxol,ambroxol,include,respiratory system,
+amenamevir,amenamevir,include,antimicrobial,antivirals
+amikacin,amikacin,include,antimicrobial,antibacterial
+amikacin,arikayce,include,antimicrobial,antibacterial
+aminocaproic_acid,^amicar,include,blood and blood forming organs,
+aminocaproic_acid,aminocaproic\sacid,include,blood and blood forming organs,
+aminomethylbenzoic_acid,aminomethylbenzoic,include,blood and blood forming organs,
+aminophylline,aminofilina,include,respiratory system,
+aminophylline,aminophyllin,include,respiratory system,
+aminophylline,aminophylline,include,respiratory system,
+aminosalicylic_acid,aminosalicylic acid,include,antimicrobial,antimycobacterials
+amiodarone,amiodaron(a|e),include,cardiovascular system,
+amiodarone,nexterone,include,cardiovascular system,
+amiodarone,pacerone,include,cardiovascular system,
+amithiozone,amithiozone,include,antimicrobial,antimycobacterials
+amitriptyline,amitript(y|i)lin(a|e),include,nervous system,
+amlodipine,^norvasc,include,cardiovascular system,
+amlodipine,amlodipin(e|o),include,cardiovascular system,
+amodiaquine,amodiaquine,include,antimicrobial,antimalarial
+amoxicillin,amoxicil,include,antimicrobial,antibacterial
+amoxicillin,amoxicilina,include,antimicrobial,antibacterial
+amoxicillin,amoxicillin,include,antimicrobial,antibacterial
+amoxicillin,amoxil,include,antimicrobial,antibacterial
+amoxicillin,amoxycillin,include,antimicrobial,antibacterial
+amoxicillin,augmentin,include,antimicrobial,antibacterial
+amoxicillin,clavulin,include,antimicrobial,antibacterial
+amoxicillin,moxatag,include,antimicrobial,antibacterial
+amoxicillin,omeclamoix,include,antimicrobial,antibacterial
+amoxicillin,prevpac,include,antimicrobial,antibacterial
+amoxicillin,talicia,include,antimicrobial,antibacterial
+amoxicillin,voquezna,include,antimicrobial,antibacterial
+amphotericin_b,abelcet,include,antimicrobial,antimycotics
+amphotericin_b,ambisome,include,antimicrobial,antimycotics
+amphotericin_b,amphotec,include,antimicrobial,antimycotics
+amphotericin_b,amphotericin,include,antimicrobial,antimycotics
+amphotericin_b,anfotericina,include,antimicrobial,antimycotics
+amphotericin_b,fungizone,include,antimicrobial,antimycotics
+ampicillin,\w+ampicillin,exclude,antimicrobial,antibacterial
+ampicillin,ampicilina,include,antimicrobial,antibacterial
+ampicillin,ampicillin,include,antimicrobial,antibacterial
+ampicillin,unasyn,include,antimicrobial,antibacterial
+amprenavir,amprenavir,include,antimicrobial,antivirals
+anakinra,^anakinra,include,,
+anidulafungin,anidulafungin,include,antimicrobial,antimycotics
+anidulafungin,ecalta,include,antimicrobial,antimycotics
+anidulafungin,eraxis,include,antimicrobial,antimycotics
+ansuvimab,ansuvimab,include,antimicrobial,immune sera and immunoglobulins
+anthrax_immunoglobulin,anthrax immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+anti_d__rh__immunoglobulin,anti-d (rh) immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+antipyrine,antipyrine,include,,
+apramycin,apramycin,include,antimicrobial,antibacterial
+aprepitant,^aprepitant,include,alimentary tract and metabolism,
+arbekacin,arbekacin,include,antimicrobial,antibacterial
+argatroban,argatroban,include,,
+arginine,arginine,include,amino acid,
+arginine,l-arginine,exclude,amino acid,
+aripiprazole,abilify,include,nervous system,
+aripiprazole,aripiprazole,include,nervous system,
+artemether,artemeterol,include,antimicrobial,antimalarial
+artemether,artemether,include,antimicrobial,antimalarial
+artemether,coartem,include,antimicrobial,antimalarial
+artesunate,artesunat(e|o),include,antiparasitic products insecticides and repellents,
+aspoxicillin,aspoxicillin,include,antimicrobial,antibacterial
+asunaprevir,asunaprevir,include,antimicrobial,antivirals
+atazanavir,atazanavir,include,antimicrobial,antivirals
+atazanavir,evotaz,include,antimicrobial,antivirals
+atazanavir,reyataz,include,antimicrobial,antivirals
+atenolol,^atenolol,include,cardiovascular system,
+atomoxetine,^atomoxetine,include,nervous system,
+atorvastatin,atorvastatin,include,cardiovascular system,
+atovaquone,atovaquone,include,antimicrobial,antimalarial
+atovaquone,malarone,include,antimicrobial,antimalarial
+atovaquone,mepron,include,antimicrobial,antimalarial
+atropine,atropin(a|e),include,,
+azathioprine,azathioprine,include,antineoplastic and immunomodulating agent,
+azathioprine,azatioprina,include,antineoplastic and immunomodulating agent,
+azidocillin,azidocillin,include,antimicrobial,antibacterial
+azithromycin,azasite,include,antimicrobial,antibacterial
+azithromycin,azithromycin,include,antimicrobial,antibacterial
+azithromycin,azitromicina,include,antimicrobial,antibacterial
+azithromycin,zithromax,include,antimicrobial,antibacterial
+azithromycin,zmax,include,antimicrobial,antibacterial
+azlocillin,azlocillin,include,antimicrobial,antibacterial
+aztreonam,azactam,include,antimicrobial,antibacterial
+aztreonam,aztreonam,include,antimicrobial,antibacterial
+aztreonam,cayston,include,antimicrobial,antibacterial
+bacampicillin,bacampicillin,include,antimicrobial,antibacterial
+bacitracin,baciguent,include,antimicrobial,antibacterial
+bacitracin,baciject,include,antimicrobial,antibacterial
+bacitracin,bacitracin,include,antimicrobial,antibacterial
+bacitracin,cortisporin,include,antimicrobial,antibacterial
+bacitracin,diosporin,include,antimicrobial,antibacterial
+bacitracin,neo.*polycin,include,antimicrobial,antibacterial
+bacitracin,neosporin,include,antimicrobial,antibacterial
+bacitracin,polycin.*b,include,antimicrobial,antibacterial
+bacitracin,polysporin,include,antimicrobial,antibacterial
+bacitracin,procomycin,include,antimicrobial,antibacterial
+baclofen,baclofen,include,musculo-skeletal system,
+baloxavir_marboxil,baloxavir marboxil,include,antimicrobial,antivirals
+balsalazide,^balsalazide,include,alimentary tract and metabolism,
+balsalazide,^colazal,include,alimentary tract and metabolism,
+beclomethasone_dipropionate,^alanase,include,,
+beclomethasone_dipropionate,^beclomethasone,include,,
+beclomethasone_dipropionate,^beconase,include,,
+beclomethasone_dipropionate,^propaderm,include,,
+beclomethasone_dipropionate,^qnasl,include,,
+beclomethasone_dipropionate,^qvar,include,,
+beclomethasone_dipropionate,^rivanase,include,,
+beclomethasone_dipropionate,beclofen,include,,
+beclomethasone_dipropionate,beclomet\sinhal,include,,
+beclomethasone_dipropionate,beclometasona,include,,
+beclomethasone_dipropionate,beclomethasone\sdipropionate,include,,
+bedaquiline,bedaquiline,include,antimicrobial,antimycobacterials
+bekanamycin,bekanamycin,include,antimicrobial,antibacterial
+benzatropine,^benzatropine,include,nervous system,
+benzatropine,^benztropine,include,nervous system,
+benzocaine,^chloraseptic,include,,
+benzocaine,benzocaine,include,,
+benzoyl_peroxide,acanya,include,antimicrobial,antibacterial
+benzoyl_peroxide,aktipak,include,antimicrobial,antibacterial
+benzoyl_peroxide,benzac,include,antimicrobial,antibacterial
+benzoyl_peroxide,benzoyl.*peroxide,include,antimicrobial,antibacterial
+benzylpenicillin,^penicilina,include,antimicrobial,antibacterial
+benzylpenicillin,^penicillin,include,antimicrobial,antibacterial
+benzylpenicillin,benzylpenicillin,include,antimicrobial,antibacterial
+benzylpenicillin,bicillin,include,antimicrobial,antibacterial
+benzylpenicillin,pfizerpen,include,antimicrobial,antibacterial
+betamethasone,betametasona,include,corticosteroid,glucocorticoids
+betamethasone,betamethasone,include,corticosteroid,glucocorticoids
+bethanechol,bethanechol,include,nervous system,
+bezlotoxumab,bezlotoxumab,include,antimicrobial,immune sera and immunoglobulins
+biapenem,biapenem,include,antimicrobial,antibacterial
+bicalutamide,^bicitra,include,antineoplastic and immunomodulating agent,
+biperiden,biperiden,include,nervous system,
+biperiden,biperideno,include,nervous system,
+bisacodyl,bisacodilo,include,,
+bisacodyl,bisacodyl,include,,
+bivalirudin,bivalirudin,include,blood and blood forming organs,
+bleomycin,bleomicina,include,antineoplastic and immunomodulating agent,
+bleomycin,bleomycin,include,antineoplastic and immunomodulating agent,
+blinatumomab,^blinatumomab,include,antineoplastic and immunomodulating agents,
+boceprevir,boceprevir,include,antimicrobial,antivirals
+bosentan,bosentan,include,,
+botulinum_antitoxin,botulinum antitoxin,include,antimicrobial,immune sera and immunoglobulins
+botulinum_toxin_type_a,abobotulinumtoxina,include,other,
+botulinum_toxin_type_a,botox,include,other,
+botulinum_toxin_type_a,dysport,include,other,
+botulinum_toxin_type_a,jeuveau,include,other,
+botulinum_toxin_type_a,xeomin,include,other,
+breast_milk,breast\smilk,include,,
+brincidofovir,brincidofovir,include,antimicrobial,antivirals
+brivudine,brivudine,include,antimicrobial,antivirals
+brodimoprim,brodimoprim,include,antimicrobial,antibacterial
+bromociptine,bromocriptin(a|e),include,,
+budesonide,^entocort,include,,
+budesonide,^symbicort,include,,
+budesonide,budesonid(a|e),include,,
+bulevirtide,bulevirtide,include,antimicrobial,antivirals
+bumetanide,bumetanide,include,,
+bumetanide,bumex,include,,
+bumetanide,burinex,include,,
+bupivacaine,^bupivacain(a|e),include,nervous system,
+bupivacaine,dil\sjpl\sbupivacaina,include,nervous system,
+bupropion,^aplenzin,include,nervous system,
+bupropion,^auvelity,include,nervous system,
+bupropion,^budeprion,include,nervous system,
+bupropion,^bupropion,include,nervous system,
+bupropion,^contrave,include,nervous system,
+bupropion,^forfivo,include,nervous system,
+bupropion,^wellbutrin,include,nervous system,
+bupropion,^zyban,include,nervous system,
+buspirone,^buspar,include,nervous system,
+buspirone,^buspirone,include,nervous system,
+busulfan,busulfan,include,antineoplastic and immunomodulating agent,
+butorphanol,^butorphanol,include,nervous system,
+cabotegravir,cabotegravir,include,antimicrobial,antivirals
+calcitriol,calcitriol,include,,
+calcium_aminosalicylate,calcium aminosalicylate,include,antimicrobial,antimycobacterials
+capreomycin,capreomycin,include,antimicrobial,antimycobacterials
+captopril,captopril,include,cardiovascular system,
+carbamazepine,^tegretol,include,nervous system,
+carbamazepine,carbamazepina,include,nervous system,
+carbamazepine,carbamazepine,include,nervous system,
+carbamide_peroxide,^debrox,include,,
+carbamide_peroxide,carbamide\speroxide,include,,
+carbenicillin,carbenicillin,include,antimicrobial,antibacterial
+carbidopa,carbidopa,include,,
+carboplatin,carboplatin,include,antineoplastic and immunomodulating agent,
+carindacillin,carindacillin,include,antimicrobial,antibacterial
+carumonam,carumonam,include,antimicrobial,antibacterial
+carvedilol,carvedilol,include,cardiovascular system,
+casirivimab,casirivimab,include,antimicrobial,immune sera and immunoglobulins
+caspofungin,cancidas,include,antimicrobial,antimycotics
+caspofungin,caspofungin,include,antimicrobial,antimycotics
+cefacetrile,cefacetrile,include,antimicrobial,antibacterial
+cefaclor,cefaclor,include,antimicrobial,antibacterial
+cefadroxil,cefadroxil,include,antimicrobial,antibacterial
+cefalexin,cefalexin,include,antimicrobial,antibacterial
+cefalexin,cephalexin,include,antimicrobial,antibacterial
+cefalexin,keflex,include,antimicrobial,antibacterial
+cefaloridine,cefaloridine,include,antimicrobial,antibacterial
+cefalotin,cefalotin,include,antimicrobial,antibacterial
+cefamandole,cefamandole,include,antimicrobial,antibacterial
+cefapirin,cefapirin,include,antimicrobial,antibacterial
+cefatrizine,cefatrizine,include,antimicrobial,antibacterial
+cefazedone,cefazedone,include,antimicrobial,antibacterial
+cefazolin,^ancef,include,antimicrobial,antibacterial
+cefazolin,cefazolin,include,antimicrobial,antibacterial
+cefbuperazone,cefbuperazone,include,antimicrobial,antibacterial
+cefcapene,cefcapene,include,antimicrobial,antibacterial
+cefdinir,^omnicef,include,antimicrobial,antibacterial
+cefdinir,cefdinir,include,antimicrobial,antibacterial
+cefditoren,cefditoren,include,antimicrobial,antibacterial
+cefepime,^maxipime,include,antimicrobial,antibacterial
+cefepime,cefepime,include,antimicrobial,antibacterial
+cefetamet,cefetamet,include,antimicrobial,antibacterial
+cefiderocol,cefiderocol,include,antimicrobial,antibacterial
+cefixime,cefixime,include,antimicrobial,antibacterial
+cefixime,suprax,include,antimicrobial,antibacterial
+cefmenoxime,cefmenoxime,include,antimicrobial,antibacterial
+cefmetazole,cefmetazole,include,antimicrobial,antibacterial
+cefminox,cefminox,include,antimicrobial,antibacterial
+cefodizime,cefodizime,include,antimicrobial,antibacterial
+cefonicide,cefonicide,include,antimicrobial,antibacterial
+cefoperazone,cefoperazone,include,antimicrobial,antibacterial
+ceforanide,ceforanide,include,antimicrobial,antibacterial
+cefotaxime,cefotaxime,include,antimicrobial,antibacterial
+cefotaxime,claforan,include,antimicrobial,antibacterial
+cefotetan,cefotan,include,antimicrobial,antibacterial
+cefotetan,cefotetan,include,antimicrobial,antibacterial
+cefotiam,cefotiam,include,antimicrobial,antibacterial
+cefovecin,cefovecin,include,antimicrobial,antibacterial
+cefoxitin,^mefoxin,include,antimicrobial,antibacterial
+cefoxitin,cefoxitin,include,antimicrobial,antibacterial
+cefozopran,cefozopran,include,antimicrobial,antibacterial
+cefpiramide,cefpiramide,include,antimicrobial,antibacterial
+cefpirome,cefpirome,include,antimicrobial,antibacterial
+cefpodoxime,cefpodoxime,include,antimicrobial,antibacterial
+cefprozil,cefprozil,include,antimicrobial,antibacterial
+cefquinome,cefquinome,include,antimicrobial,antibacterial
+cefradine,cefradine,include,antimicrobial,antibacterial
+cefradine,cephradine,include,antimicrobial,antibacterial
+cefroxadine,cefroxadine,include,antimicrobial,antibacterial
+cefsulodin,cefsulodin,include,antimicrobial,antibacterial
+ceftaroline_fosamil,ceftaroline.*fosamil,include,antimicrobial,antibacterial
+ceftaroline_fosamil,teflaro,include,antimicrobial,antibacterial
+ceftaroline_fosamil,zinforo,include,antimicrobial,antibacterial
+ceftazidime,avycaz,include,antimicrobial,antibacterial
+ceftazidime,ceftazidim,include,antimicrobial,antibacterial
+ceftazidime,ceftazidime,include,antimicrobial,antibacterial
+ceftazidime,fortaz,include,antimicrobial,antibacterial
+ceftazidime,tazicef,include,antimicrobial,antibacterial
+ceftazidime,zavicefta,include,antimicrobial,antibacterial
+cefteram,cefteram,include,antimicrobial,antibacterial
+ceftezole,ceftezole,include,antimicrobial,antibacterial
+ceftibuten,ceftibuten,include,antimicrobial,antibacterial
+ceftiofur,ceftiofur,include,antimicrobial,antibacterial
+ceftizoxime,ceftizoxime,include,antimicrobial,antibacterial
+ceftobiprole_medocaril,ceftobiprole medocaril,include,antimicrobial,antibacterial
+ceftolozane,ceftolozane,include,antimicrobial,antibacterial
+ceftolozane,zerbaxa,include,antimicrobial,antibacterial
+ceftriaxone,ceftriaxon(a|e),include,antimicrobial,antibacterial
+ceftriaxone,rocephin,include,antimicrobial,antibacterial
+cefuroxime,ceftin,include,antimicrobial,antibacterial
+cefuroxime,cefuroxime,include,antimicrobial,antibacterial
+celecoxib,^celebrex,include,,
+celecoxib,^celecoxib,include,,
+celecoxib,^elyxyb,include,,
+celecoxib,^seglentis,include,,
+cetirizine,^zyrtec,include,,
+cetirizine,cetirizine,include,,
+chloramphenicol,chloramphenicol,include,antimicrobial,antibacterial
+chloramphenicol,chloromycetin,include,antimicrobial,antibacterial
+chlorhexidine,^peridex,include,antiseptic,
+chlorhexidine,chlorhexidine,include,antiseptic,
+chloroprocaine,chloroprocaine,include,nervous system,
+chloroquine,chloroquine,include,antimicrobial,antimalarial
+chloroquine,cloroquina,include,antimicrobial,antimalarial
+chloroquine,hydroxy,exclude,antimicrobial,antimalarial
+chlorothiazide,^diuril,include,,
+chlorothiazide,chlorothiazide,include,,
+chlorothiazide,hydrochlorothiazide,exclude,,
+chlorpheniramine,chlorpheniramine,include,respiratory system,
+chlorpromazine,^chlorpromazine,include,nervous system,
+chlortetracycline,chlortetracycline,include,antimicrobial,antibacterial
+cholestyramine,cholestyramine,include,,
+cholestyramine,colestiramina,include,,
+ciclopirox,ciclopirox,include,antimicrobial,antimycotics
+cidofovir,\w+cidofovir,exclude,antimicrobial,antivirals
+cidofovir,cidofovir,include,antimicrobial,antivirals
+cidofovir,vistide,include,antimicrobial,antivirals
+cilgavimab,cilgavimab,include,antimicrobial,immune sera and immunoglobulins
+cinoxacin,cinoxacin,include,antimicrobial,antibacterial
+ciprofloxacin,cetrexal,include,antimicrobial,antibacterial
+ciprofloxacin,ciloxan,include,antimicrobial,antibacterial
+ciprofloxacin,cipro,include,antimicrobial,antibacterial
+ciprofloxacin,ciprodex,include,antimicrobial,antibacterial
+ciprofloxacin,ciprofloxacin,include,antimicrobial,antibacterial
+ciprofloxacin,otiprio,include,antimicrobial,antibacterial
+ciprofloxacin,otixal,include,antimicrobial,antibacterial
+ciprofloxacin,otovel,include,antimicrobial,antibacterial
+ciprofloxacin,proquin,include,antimicrobial,antibacterial
+cisatracurium,cisatracurio,include,musculo-skeletal system,
+cisatracurium,cisatracurium,include,musculo-skeletal system,
+cisplatin,cisplatin,include,antineoplastic and immunomodulating agent,
+citalopram,^celexa,include,nervous system,
+citalopram,^citalopram,include,nervous system,
+clarithromycin,biaxin,include,antimicrobial,antibacterial
+clarithromycin,clarithromycin,include,antimicrobial,antibacterial
+clarithromycin,claritromicina,include,antimicrobial,antibacterial
+clarithromycin,omeclamox,include,antimicrobial,antibacterial
+clarithromycin,prevpac,include,antimicrobial,antibacterial
+clarithromycin,voquezna,include,antimicrobial,antibacterial
+clevudine,clevudine,include,antimicrobial,antivirals
+clindamycin,acanya,include,antimicrobial,antibacterial
+clindamycin,benzaclin,include,antimicrobial,antibacterial
+clindamycin,biacna,include,antimicrobial,antibacterial
+clindamycin,cleocin,include,antimicrobial,antibacterial
+clindamycin,clindacin,include,antimicrobial,antibacterial
+clindamycin,clindagel,include,antimicrobial,antibacterial
+clindamycin,clindamicina,include,antimicrobial,antibacterial
+clindamycin,clindamycin,include,antimicrobial,antibacterial
+clindamycin,clindesse,include,antimicrobial,antibacterial
+clindamycin,clindoxyl,include,antimicrobial,antibacterial
+clindamycin,dalacin,include,antimicrobial,antibacterial
+clindamycin,evoclin,include,antimicrobial,antibacterial
+clindamycin,neuac,include,antimicrobial,antibacterial
+clindamycin,onexton,include,antimicrobial,antibacterial
+clindamycin,veltin,include,antimicrobial,antibacterial
+clindamycin,xaciato,include,antimicrobial,antibacterial
+clindamycin,ziana,include,antimicrobial,antibacterial
+clobazam,clobaza(m|n),include,nervous system,
+clobazam,onfi,include,nervous system,
+clobazam,sympazan,include,nervous system,
+clofazimine,clofazimine,include,antimicrobial,antimycobacterials
+clofoctol,clofoctol,include,antimicrobial,antibacterial
+clometocillin,clometocillin,include,antimicrobial,antibacterial
+clomocycline,clomocycline,include,antimicrobial,antibacterial
+clonazepam,^klonopin,include,nervous system,
+clonazepam,clonazepam,include,nervous system,
+clonidine,clonidin(a|e),include,,
+clopidogrel,^clopidogrel,include,blood and blood forming organs,
+cloprednol,cloprednol,include,corticosteroid,glucocorticoids
+clorazepic_acid,^clorazepate,include,,
+clotrimazole,alevazol,include,antimicrobial,antimycotics
+clotrimazole,clotrimazol,include,antimicrobial,antimycotics
+clotrimazole,dermacinrx,include,antimicrobial,antimycotics
+clotrimazole,lotriderm,include,antimicrobial,antimycotics
+clotrimazole,lotrimin,include,antimicrobial,antimycotics
+clotrimazole,lotrisone,include,antimicrobial,antimycotics
+clotrimazole,mycelex,include,antimicrobial,antimycotics
+cloxacillin,cloxacillin,include,antimicrobial,antibacterial
+clozapine,clozapin(a|e),include,nervous system,
+coblopasvir,coblopasvir,include,antimicrobial,antivirals
+coenzyme_m,^ubiquinol,include,,
+coenzyme_m,coenzima\sq10,include,,
+coenzyme_m,coenzyme\scomplex,include,,
+coenzyme_m,coenzyme\sq10,include,,
+coenzyme_m,mesna,include,,
+colchicine,colchicin(a|e),include,musculo-skeletal system,
+colistimethate,colistimethate,include,antimicrobial,antibacterial
+colistin,colistin,include,antimicrobial,antibacterial
+collagenase_clostridium_histolyticum,^qwo,include,,
+collagenase_clostridium_histolyticum,^santyl,include,,
+collagenase_clostridium_histolyticum,^xiaflex,include,,
+corticotropin,^corticotropin,include,systemic hormonal preparations excl sex hormones and insulins,
+cortisone,cortisone,include,corticosteroid,glucocorticoids
+cortivazol,cortivazol,include,corticosteroid,glucocorticoids
+crotamiton,crotamiton,include,,
+cyclobenzaprine,^cyclobenzaprine,include,musculo-skeletal system,
+cyclobenzaprine,^flexeril,include,musculo-skeletal system,
+cyclopentolate,^cyclomydril,include,,
+cyclophosphamide,ciclofosfamida,include,antineoplastic and immunomodulating agent,
+cyclophosphamide,cyclophosphamide,include,antineoplastic and immunomodulating agent,
+cycloserine,cycloserine,include,antimicrobial,antimycobacterials
+cyclosporine,^gengraf,include,,
+cyclosporine,c(y|i)closporin(a|e),include,,
+cyproheptadine,^periactin,include,respiratory system,
+cyproheptadine,cyproheptadine,include,respiratory system,
+cysteine,^cysteine,include,,
+cytarabine,c(y|i)tarabin(a|e),include,antineoplastic and immunomodulating agent,
+cytomegalovirus_immunoglobulin,cytomegalovirus immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+dacarbazine,dacarbazin(a|e),include,antineoplastic and immunomodulating agent,
+daclatasvir,daclatasvir,include,antimicrobial,antivirals
+dactinomycin,actinomicina,include,antineoplastic and immunomodulating agent,
+dactinomycin,dactinomycin,include,antineoplastic and immunomodulating agent,
+dalbavancin,dalbavancin,include,antimicrobial,antibacterial
+dalteparin,dalteparin,include,blood and blood forming organs,
+danofloxacin,danofloxacin,include,antimicrobial,antibacterial
+dantrolene,^dantrolene,include,musculo-skeletal system,
+dapsone,aczone,include,antimicrobial,antimycobacterials
+dapsone,dapsone,include,antimicrobial,antimycobacterials
+daptomycin,cubicin,include,antimicrobial,antibacterial
+daptomycin,daptomicina,include,antimicrobial,antibacterial
+daptomycin,daptomycin,include,antimicrobial,antibacterial
+daptomycin,dapzura,include,antimicrobial,antibacterial
+darbepoetin_alfa,^darbepoetin\salfa,include,,
+darunavir,darunavir,include,antimicrobial,antivirals
+darunavir,prezcobix,include,antimicrobial,antivirals
+darunavir,prezista,include,antimicrobial,antivirals
+darunavir,rezolsta,include,antimicrobial,antivirals
+dasabuvir,dasabuvir,include,antimicrobial,antivirals
+daunorubicin,daunorrubicina,include,antineoplastic and immunomodulating agent,
+daunorubicin,daunorubicin,include,antineoplastic and immunomodulating agent,
+ddimethicone,^dimethicone,include,,
+deferasirox,deferasirox,include,,
+deferasirox,desferasiros,include,,
+deflazacort,deflazacort,include,corticosteroid,glucocorticoids
+delafloxacin,delafloxacin,include,antimicrobial,antibacterial
+delamanid,delamanid,include,antimicrobial,antimycobacterials
+delavirdine,delavirdine,include,antimicrobial,antivirals
+demeclocycline,demeclocycline,include,antimicrobial,antibacterial
+desloratadine,desloratadine,include,antihistamine,
+desmopressin,^ddavp,include,systemic hormonal preparations excl sex hormones and insulins,
+desmopressin,desmopresina,include,systemic hormonal preparations excl sex hormones and insulins,
+desmopressin,desmopressin,include,systemic hormonal preparations excl sex hormones and insulins,
+desonide,bud,exclude,,
+desonide,desonid(a|e),include,,
+desoximetasone,^desoximetasone,include,dermatologicals,
+desoxycortone,desoxycortone,include,corticosteroid,mineralocorticoids
+dexamethasone,baycadron,include,corticosteroid,glucocorticoids
+dexamethasone,ciprodex,include,corticosteroid,glucocorticoids
+dexamethasone,decadron,include,corticosteroid,glucocorticoids
+dexamethasone,dexametasona,include,corticosteroid,glucocorticoids
+dexamethasone,dexamethasone,include,corticosteroid,glucocorticoids
+dexamethasone,dextenza,include,corticosteroid,glucocorticoids
+dexamethasone,dioptrol,include,corticosteroid,glucocorticoids
+dexamethasone,hexadrol,include,corticosteroid,glucocorticoids
+dexamethasone,hidex,include,corticosteroid,glucocorticoids
+dexamethasone,maxidex,include,corticosteroid,glucocorticoids
+dexamethasone,maxitrol,include,corticosteroid,glucocorticoids
+dexamethasone,neofordex,include,corticosteroid,glucocorticoids
+dexamethasone,ozurdex,include,corticosteroid,glucocorticoids
+dexamethasone,taperdex,include,corticosteroid,glucocorticoids
+dexamethasone,tobradex,include,corticosteroid,glucocorticoids
+dexamethasone,zcort,include,corticosteroid,glucocorticoids
+dexmedetomidine,dexmedetomidin(a|e),include,nervous system,
+dexrazoxane,dexrazoxane,include,,
+dextran,dextran,include,,
+dextroamphetamine_amphetamine,^amphetamine-dextroamphetamine,include,nervous system,
+dextromethorphan,^chloraseptic,include,,
+dextromethorphan,dextromethorphan,include,,
+dextromethorphan,dextrometorfano,include,,
+diazepam,^valium,include,nervous system,
+diazepam,diazepam,include,nervous system,
+diazoxide,diazoxid(e|o),include,,
+dibekacin,dibekacin,include,antimicrobial,antibacterial
+diclofenac,diclofenac,include,,
+dicloxacillin,dicloxacillin,include,antimicrobial,antibacterial
+dicyclomine,^bentyl,include,,
+dicyclomine,dicyclomine,include,,
+didanosine,didanosine,include,antimicrobial,antivirals
+difloxacin,difloxacin,include,antimicrobial,antibacterial
+digoxin,digox,include,cardiovascular system,
+digoxin,digoxin,include,cardiovascular system,
+digoxin,lanoxin,include,cardiovascular system,
+dihydrocodeine,dihydrocodein(a|e),include,nervous system,
+dihydroergotamine,^dihydroergotamine,include,nervous system,
+dihydrostreptomycin,dihydrostreptomycin,include,antimicrobial,antibacterial
+diltiazem,^diltiazem,include,cardiovascular system,
+dimenhydrinate,dimenh(y|i)drinat(e|o),include,respiratory system,
+dinutuximab,dinutuximab,include,antineoplastic and immunomodulating agent,
+diphenhydramine,benadryl,include,antihistamine,
+diphenhydramine,difenhidramina,include,antihistamine,
+diphenhydramine,diphenhydramine,include,antihistamine,
+diphtheria_antitoxin,diphtheria antitoxin,include,antimicrobial,immune sera and immunoglobulins
+diphtheria_immunoglobulin,diphtheria immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+dipyridamole,^dipyridamole,include,blood and blood forming organs,
+dirithromycin,dirithromycin,include,antimicrobial,antibacterial
+dobutamine,dobutamin,include,vasoactive,
+docosanol,abreva,include,antimicrobial,antivirals
+docosanol,docosanol,include,antimicrobial,antivirals
+docusate,^docusate,include,,
+dolutegravir,dolutegravir,include,antimicrobial,antivirals
+domperidone,domperidon(a|e),include,alimentary tract and metabolism,
+dopamine,dopamin,include,vasoactive,
+dopamine,dopamine,include,vasoactive,
+doravirine,doravirine,include,antimicrobial,antivirals
+doripenem,doripenem,include,antimicrobial,antibacterial
+dornase_alfa,dornase,include,respiratory system,
+dornase_alfa,pulmozyme,include,respiratory system,
+dorzolamide,^dorzolamide,include,,
+doxazosin,^cardura,include,,
+doxazosin,^doxazosin,include,,
+doxorubicin,doxorrubicina,include,antineoplastic and immunomodulating agent,
+doxorubicin,doxorubicin,include,antineoplastic and immunomodulating agent,
+doxycycline,acticlate,include,antimicrobial,antibacterial
+doxycycline,apprilon,include,antimicrobial,antibacterial
+doxycycline,doryx,include,antimicrobial,antibacterial
+doxycycline,dox(y|i)c(y|i)clin(a|e),include,antimicrobial,antibacterial
+doxycycline,doxy,include,antimicrobial,antibacterial
+doxycycline,doxycin,include,antimicrobial,antibacterial
+doxycycline,doxylamine,exclude,antimicrobial,antibacterial
+doxycycline,inv-doxycycline,exclude,antimicrobial,antibacterial
+doxycycline,lymepak,include,antimicrobial,antibacterial
+doxycycline,modox,include,antimicrobial,antibacterial
+doxycycline,mondoxyne,include,antimicrobial,antibacterial
+doxycycline,okebo,include,antimicrobial,antibacterial
+doxycycline,oracea,include,antimicrobial,antibacterial
+doxycycline,periostat,include,antimicrobial,antibacterial
+doxycycline,pyridoxyl.*phosphate,exclude,antimicrobial,antibacterial
+doxycycline,targadox,include,antimicrobial,antibacterial
+doxycycline,vibramycin,include,antimicrobial,antibacterial
+dronabinol,dronabinol,include,alimentary tract and metabolism,
+dtap,^dtap,include,vaccine,
+dtap,^tetanus-diphth,include,vaccine,
+dtap,diphtheria\/tetanus\/pertussis\s\(dtap\),include,vaccine,
+dtap,tetanus\/diphth\/pertuss,include,vaccine,
+duloxetine,^cymbalta,include,nervous system,
+duloxetine,^drizalma,include,nervous system,
+duloxetine,^duloxetine,include,nervous system,
+duloxetine,^irenka,include,nervous system,
+duloxetine,^yentreve,include,nervous system,
+eculizumab,eculizumab,include,antineoplastic and immunomodulating agent,
+efavirenz,efavirenz,include,antimicrobial,antivirals
+elbasvir,elbasvir,include,antimicrobial,antivirals
+elvitegravir,elvitegravir,include,antimicrobial,antivirals
+emtricitabine,emtricitabin(a|e),include,antimicrobial,antivirals
+enalapril,enalapril,include,cardiovascular system,
+encephalitis_tick_borne_immunoglobulin,"encephalitis, tick-borne immunoglobulin",include,antimicrobial,immune sera and immunoglobulins
+enfuvirtide,enfuvirtide,include,antimicrobial,antivirals
+enisamium_iodide,enisamium iodide,include,antimicrobial,antivirals
+enoxacin,enoxacin,include,antimicrobial,antibacterial
+enoxaparin,^lovenox,include,cardiovascular system,
+enoxaparin,enoxaparin,include,cardiovascular system,
+enrofloxacin,enrofloxacin,include,antimicrobial,antibacterial
+entecavir,entecavir,include,antimicrobial,antivirals
+enviomycin,enviomycin,include,antimicrobial,antimycobacterials
+ephedrine,ephedrine,include,,
+epicillin,epicillin,include,antimicrobial,antibacterial
+epinephrine,^adrenalin,include,vasoactive,
+epinephrine,^bupivacaine,exclude,vasoactive,
+epinephrine,^epinephrine-lidocaine,exclude,vasoactive,
+epinephrine,^epinephrine\sracemic,exclude,vasoactive,
+epinephrine,^lidocaina,exclude,vasoactive,
+epinephrine,^lidocaine,exclude,vasoactive,
+epinephrine,allerjact,include,vasoactive,
+epinephrine,anapen,include,vasoactive,
+epinephrine,articadent,include,vasoactive,
+epinephrine,astracaine,include,vasoactive,
+epinephrine,auvi.*q,include,vasoactive,
+epinephrine,citanest,include,vasoactive,
+epinephrine,emerade,include,vasoactive,
+epinephrine,epinefrina,include,vasoactive,
+epinephrine,epinepherine,include,vasoactive,
+epinephrine,epinephrine,include,vasoactive,
+epinephrine,epipen,include,vasoactive,
+epinephrine,lignospan,include,vasoactive,
+epinephrine,marcaine,include,vasoactive,
+epinephrine,norepinephrine,exclude,vasoactive,
+epinephrine,octocain,include,vasoactive,
+epinephrine,orabloc,include,vasoactive,
+epinephrine,racepinephrine,exclude,vasoactive,
+epinephrine,scandonest,include,vasoactive,
+epinephrine,sensorcaine,include,vasoactive,
+epinephrine,septanest,include,vasoactive,
+epinephrine,septocaine,include,vasoactive,
+epinephrine,symjepi,include,vasoactive,
+epinephrine,ultacan,include,vasoactive,
+epinephrine,ultracaine,include,vasoactive,
+epinephrine,vivacaine,include,vasoactive,
+epinephrine,xylocaine,include,vasoactive,
+epinephrine,xzorcaine,include,vasoactive,
+epoprostenol,epoprostenol,include,blood and blood forming organs,
+eravacycline,eravacycline,include,antimicrobial,antibacterial
+ergometrine,ergometrin(a|e),include,genito urinary system and sex hormones,
+ertapenem,ertapenem,include,antimicrobial,antibacterial
+ertapenem,invanz,include,antimicrobial,antibacterial
+erythromycin,aktipak,include,antimicrobial,antibacterial
+erythromycin,apo.*erythro,include,antimicrobial,antibacterial
+erythromycin,benzamycin,include,antimicrobial,antibacterial
+erythromycin,eritromicina,include,antimicrobial,antibacterial
+erythromycin,erythromycin,include,antimicrobial,antibacterial
+erythropoietin,^epogen,include,blood and blood forming organs,
+erythropoietin,eritropoyetina,include,blood and blood forming organs,
+erythropoietin,erythropoietin,include,blood and blood forming organs,
+escitalopram,escitalopram,include,nervous system,
+esmolol,esmolol,include,cardiovascular system,
+esomeprazole,^esomeprazole,include,,
+esomeprazole,^nexium,include,,
+esomeprazole,^vimovo,include,,
+etacrynic_acid,^ethacrynic\sacid,include,cardiovascular system,
+etamsylate,etamsylate,include,blood and blood forming organs,
+ethambutol,etambutol,include,antimicrobial,antimycobacterials
+ethambutol,ethambut(a|o)l,include,antimicrobial,antimycobacterials
+ethambutol,etibi,include,antimicrobial,antimycobacterials
+ethambutol,myambutol,include,antimicrobial,antimycobacterials
+ethambutol,rimstar,include,antimicrobial,antimycobacterials
+ethionamide,ethionamide,include,antimicrobial,antimycobacterials
+etilefrine,etilefrin(a|e),include,cardiovascular system,
+etomidate,etomidat(e|o),include,nervous system,
+etoposide,etoposid(e|o),include,antineoplastic and immunomodulating agent,
+etravirine,etravirine,include,antimicrobial,antivirals
+everolimus,^everolimus,include,antineoplastic and immunomodulating agents,
+faldaprevir,faldaprevir,include,antimicrobial,antivirals
+famciclovir,famciclovir,include,antimicrobial,antivirals
+famotidine,^pepcid,include,alimentary tract and metabolism,
+famotidine,famotidine,include,alimentary tract and metabolism,
+faropenem,faropenem,include,antimicrobial,antibacterial
+fat_emulsion,fat\semulsion,include,other,
+favipiravir,favipiravir,include,antimicrobial,antivirals
+felbamate,^felbamate,include,nervous system,
+fentanyl,fentanilo,include,nervous system,
+fentanyl,fentanyl,include,nervous system,
+fentanyl,sublimaze,include,nervous system,
+ferrous_sulfate,ferrous\ssulfate,include,,
+ferrous_sulfate,sulfato\sferroso,include,,
+fexofenadine,allegra,include,antihistamine,
+fexofenadine,fexofenadine,include,antihistamine,
+fish_oil,fish\soil,include,other,
+flecainide,^flecainide,include,cardiovascular system,
+flecainide,^tambocor,include,cardiovascular system,
+fleroxacin,fleroxacin,include,antimicrobial,antibacterial
+flomoxef,flomoxef,include,antimicrobial,antibacterial
+florfenicol,florfenicol,include,antimicrobial,antibacterial
+flucloxacillin,flucloxacillin,include,antimicrobial,antibacterial
+fluconazole,^diflucan,include,antimicrobial,antimycotics
+fluconazole,difucan,include,antimicrobial,antimycotics
+fluconazole,fluconazol,include,antimicrobial,antimycotics
+fluconazole,fluconazole,include,antimicrobial,antimycotics
+flucytosine,flucytosine,include,antimicrobial,antimycotics
+fludarabine,^fludarabine,include,antineoplastic and immunomodulating agents,
+fludrocortisone,fludrocortison(a|e),include,corticosteroid,mineralocorticoids
+flumequine,flumequine,include,antimicrobial,antibacterial
+flumetasone,flumetasone,include,corticosteroid,glucocorticoids
+fluocinolone_acetonide,^fluocinolone\sacetonide,include,,
+fluocinonide,^fluocinonide,include,,
+fluocortolone,fluocortolone,include,corticosteroid,glucocorticoids
+fluorometholone,fluorometholon(a|e),include,,
+fluoxetine,^prozac,include,nervous system,
+fluoxetine,fluoxetin(a|e),include,nervous system,
+flurithromycin,flurithromycin,include,antimicrobial,antibacterial
+fluticasone_propionate,^advair,include,,
+fluticasone_propionate,^flovent,include,,
+fluticasone_propionate,flonase,include,,
+fluticasone,fluticason(a|e),include,,
+formoterol,^symbicort,include,respiratory system,
+fosamprenavir,fosamprenavir,include,antimicrobial,antivirals
+foscarnet,foscarnet,include,antimicrobial,antivirals
+foscarnet,foscavir,include,antimicrobial,antivirals
+fosfomycin,fosfomycin,include,antimicrobial,antibacterial
+fosfonet,fosfonet,include,antimicrobial,antivirals
+fosphenytoin,fosphenytoin,include,nervous system,
+fostemsavir,fostemsavir,include,antimicrobial,antivirals
+framycetin,framycetin,include,antimicrobial,antibacterial
+furaltadone,furaltadone,include,antimicrobial,antibacterial
+furazidin,furazidin,include,antimicrobial,antibacterial
+furazolidine,furazolidine,include,antimicrobial,antibacterial
+furosemide,^lasix,include,,
+furosemide,frusemide,include,,
+furosemide,furosemid(a|e),include,,
+fusidic_acid,acido\sfusidico,include,antimicrobial,antibacterial
+fusidic_acid,fusidic acid,include,antimicrobial,antibacterial
+gabapentin,^neurontin,include,nervous system,
+gabapentin,gabapentin,include,nervous system,
+gadoteric_acid,^gadoterate,include,contrast agent,
+gadoteridol,^gadoteridol,include,,
+gadoteridol,^prohance,include,,
+gamithromycin,gamithromycin,include,antimicrobial,antibacterial
+ganciclovir,\w+ganciclovir,exclude,antimicrobial,antivirals
+ganciclovir,cytovene,include,antimicrobial,antivirals
+ganciclovir,ganciclovir,include,antimicrobial,antivirals
+ganciclovir,zirgan,include,antimicrobial,antivirals
+garenoxacin,garenoxacin,include,antimicrobial,antibacterial
+gas_gangrene_sera,gas-gangrene sera,include,antimicrobial,immune sera and immunoglobulins
+gatifloxacin,gatifloxacin,include,antimicrobial,antibacterial
+gemifloxacin,gemifloxacin,include,antimicrobial,antibacterial
+generic_antibiotic,^**REDACTED**_antibiotic$,include,antimicrobial,antibacterial
+gentamicin,^gentak,include,antimicrobial,antibacterial
+gentamicin,^pred[^a-zA-Z\d]?g,include,antimicrobial,antibacterial
+gentamicin,^valisone.*g,include,antimicrobial,antibacterial
+gentamicin,gentam(i|y)cin,include,antimicrobial,antibacterial
+glycerol_phenylbutyrate,^glycerol\sphenylbutyrate,include,,
+glycopyrronium,^robinul,include,,
+glycopyrronium,glycopyrrolate,include,,
+glycopyrronium,glycopyrronium,include,,
+granesetrone,granesetrone,include,,
+granisetron,^kytril,include,alimentary tract and metabolism,
+granisetron,granisetron,include,alimentary tract and metabolism,
+grazoprevir,grazoprevir,include,antimicrobial,antivirals
+grepafloxacin,grepafloxacin,include,antimicrobial,antibacterial
+griseofulvin,^griseofulvin,include,antimicrobial,antimycotics
+guaifenesin,^guaifenesin,include,respiratory system,
+guanfacine,^intuniv,include,cardiovascular system,
+guanfacine,^tenex,include,cardiovascular system,
+guanfacine,guanfacine,include,cardiovascular system,
+hachimycin,hachimycin,include,antimicrobial,antimycotics
+haloperidol,^haldol,include,nervous system,
+haloperidol,haloperidol,include,nervous system,
+heparin,heparin,include,cardiovascular system,
+hepatitis_a_immunoglobulin,hepatitis a immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+hepatitis_a_vaccine,hepatitis\sa\s.*vaccine,include,vaccine,
+hepatitis_b_immunoglobulin,hepatitis b immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+hepatitis_b_vaccine,hepatitis\sb\s.*vac.+,include,vaccine,
+hepatitis_b_vaccine,vacuna\santihepatitis\sb,include,vaccine,
+herbs,qingfei\shuatan,include,other,
+hetacillin,hetacillin,include,antimicrobial,antibacterial
+human_immunoglobulin_g,asceniv,include,human immunoglobulin,
+human_immunoglobulin_g,bivigam,include,human immunoglobulin,
+human_immunoglobulin_g,cuvitru,include,human immunoglobulin,
+human_immunoglobulin_g,flebogamma,include,human immunoglobulin,
+human_immunoglobulin_g,gamastan,include,human immunoglobulin,
+human_immunoglobulin_g,gammagard,include,human immunoglobulin,
+human_immunoglobulin_g,gammaked,include,human immunoglobulin,
+human_immunoglobulin_g,gammaplex,include,human immunoglobulin,
+human_immunoglobulin_g,gamunex,include,human immunoglobulin,
+human_immunoglobulin_g,hizentra,include,human immunoglobulin,
+human_immunoglobulin_g,human\simmu(n|m)oglobulin,include,human immunoglobulin,
+human_immunoglobulin_g,hyqvia,include,human immunoglobulin,
+human_immunoglobulin_g,i(n|m)mune\sglobulin,include,human immunoglobulin,
+human_immunoglobulin_g,igivnex,include,human immunoglobulin,
+human_immunoglobulin_g,inmunoglobulina\shumana,include,human immunoglobulin,
+human_immunoglobulin_g,kiovig,include,human immunoglobulin,
+human_immunoglobulin_g,octagam,include,human immunoglobulin,
+human_immunoglobulin_g,panzyga,include,human immunoglobulin,
+human_immunoglobulin_g,privigen,include,human immunoglobulin,
+human_immunoglobulin_g,xembify,include,human immunoglobulin,
+hydralazine,hydralazine,include,cardiovascular system,
+hydrochlorothiazide,^aldactazide,include,,
+hydrochlorothiazide,hidroclorotiazida,include,,
+hydrochlorothiazide,hydrochlorothiazide,include,,
+hydrocortisone,^cortef,include,corticosteroid,glucocorticoids
+hydrocortisone,hidrocortisona,include,corticosteroid,glucocorticoids
+hydrocortisone,hydrocortisone,include,corticosteroid,glucocorticoids
+hydromorphone,^dilaudid,include,nervous system,
+hydromorphone,hidromorfona,include,nervous system,
+hydromorphone,hydromorphone,include,nervous system,
+hydroxychloroquine,hydroxychloroquine,include,antimicrobial,antimalarial
+hydroxyurea,h(y|i)droxyurea,include,antineoplastic and immunomodulating agent,
+hydroxyzine,^atarax,include,nervous system,
+hydroxyzine,hidroxicina,include,nervous system,
+hydroxyzine,hydroxyzine,include,nervous system,
+hyoscyamine,^levsin,include,nervous system,
+hyoscyamine,hyoscyamine,include,nervous system,
+ibafloxacin,ibafloxacin,include,antimicrobial,antibacterial
+ibalizumab,ibalizumab,include,antimicrobial,antivirals
+ibrexafungerp,ibrexafungerp,include,antimicrobial,antimycotics
+ibuprofen,^motrin,include,,
+ibuprofen,ibuprofen,include,,
+iclaprim,iclaprim,include,antimicrobial,antibacterial
+idarubicin,idarubicin,include,antineoplastic and immunomodulating agent,
+idoxuridine,idoxuridine,include,antimicrobial,antivirals
+ifosfamide,ifosfamid(a|e),include,antineoplastic and immunomodulating agent,
+imatinib,imatinib,include,antineoplastic and immunomodulating agent,
+imdevimab,imdevimab,include,antimicrobial,immune sera and immunoglobulins
+imipenem,imipen(a|e)m,include,antimicrobial,antibacterial
+imipenem,primaxin,include,antimicrobial,antibacterial
+imipenem,recarbrio,include,antimicrobial,antibacterial
+imipramine,imipramin(a|e),include,nervous system,
+immunoglobulins_normal_human_for_extravascular_administration,"immunoglobulins, normal human, for extravascular administration",include,antimicrobial,immune sera and immunoglobulins
+immunoglobulins_normal_human_for_intravascular_administration,"immunoglobulins, normal human, for intravascular administration",include,antimicrobial,immune sera and immunoglobulins
+indinavir,indinavir,include,antimicrobial,antivirals
+indomethacin,indometacin,include,,
+indomethacin,indomethacin,include,,
+infliximab,^infliximab,include,,
+influenza_vaccine,influenza.*vac,include,vaccine,
+inosine_pranobex,inosine pranobex,include,antimicrobial,antivirals
+insulin_aspart,^novolog,include,insulin,
+insulin_detemir,^levemir,include,insulin,
+insulin,admelog,include,insulin,
+insulin,humalog,include,insulin,
+insulin,insulin,include,insulin,
+insulin,liprolog,include,insulin,
+insulin,lyumjev,include,insulin,
+iodixanol,^iodixanol,include,contrast agent,
+iopamidol,^isovue,include,,
+iopamidol,iopamidol,include,,
+ioversol,ioversol,include,,
+ipratropium,ipratropio,include,respiratory system,
+ipratropium,ipratropium,include,respiratory system,
+irinotecan,^irinotecan,include,antineoplastic and immunomodulating agents,
+isavuconazole,isavuconazol,include,antimicrobial,antimycotics
+isepamicin,isepamicin,include,antimicrobial,antibacterial
+isoniazid,isonarif,include,antimicrobial,antimycobacterials
+isoniazid,isoniazid,include,antimicrobial,antimycobacterials
+isoniazid,isotamine,include,antimicrobial,antimycobacterials
+isoniazid,rifamate,include,antimicrobial,antimycobacterials
+isoniazid,rifater,include,antimicrobial,antimycobacterials
+isoniazid,rimactazid,include,antimicrobial,antimycobacterials
+isoniazid,rimstar,include,antimicrobial,antimycobacterials
+isosorbide,isosorbide,include,,
+isradipine,isradipine,include,cardiovascular system,
+itraconazole,itraconazole,include,antimicrobial,antimycotics
+ivacaftor_and_lumacaftor,^ivacaftor-lumacaftor,include,respiratory system,
+ivacaftor_and_lumacaftor,^lumacaftor-ivacaftor,include,respiratory system,
+ivermectin,ivermectin,include,,
+josamycin,josamycin,include,antimicrobial,antibacterial
+kanamycin,kanamycin,include,antimicrobial,antibacterial
+ketamine,^ketalar,include,,
+ketamine,ketamin(a|e),include,,
+ketoconazole,extina,include,antimicrobial,antimycotics
+ketoconazole,ketoconazole,include,antimicrobial,antimycotics
+ketoconazole,ketoconazole,include,corticosteroid,antiadrenal preperations
+ketoconazole,ketodan,include,antimicrobial,antimycotics
+ketoconazole,ketoderm,include,antimicrobial,antimycotics
+ketoconazole,nizoral,include,antimicrobial,antimycotics
+ketoconazole,xolegel,include,antimicrobial,antimycotics
+ketorolac,ketorolac,include,nsaid,
+ketorolac,toradol,include,nsaid,
+ketotifen,ketotifen,include,respiratory system,
+kitasamycin,kitasamycin,include,antimicrobial,antibacterial
+l_arginine,l-arginine,include,amino acid,
+labetalol,labetalol,include,cardiovascular system,
+lacosamide,^vimpat,include,nervous system,
+lacosamide,lacosamide,include,nervous system,
+lactulose,lactulose,include,alimentary tract and metabolism,
+lamivudine,lamivudin(a|e),include,antimicrobial,antivirals
+lamotrigine,^lamictal,include,nervous system,
+lamotrigine,lamotrigin(a|e),include,nervous system,
+laninamivir,laninamivir,include,antimicrobial,antivirals
+lansoprazole,^prevacid,include,,
+lansoprazole,lansoprazole,include,,
+lascufloxacin,lascufloxacin,include,antimicrobial,antibacterial
+latamoxef,latamoxef,include,antimicrobial,antibacterial
+lefamulin,lefamulin,include,antimicrobial,antibacterial
+lenacapavir,lenacapavir,include,antimicrobial,antivirals
+letermovir,letermovir,include,antimicrobial,antivirals
+leucovorin,acido\sfolinico,include,,
+leucovorin,leucovorin,include,,
+levetiracetam,^keppra,include,nervous system,
+levetiracetam,levetiracetam,include,nervous system,
+levocarnitine,carnitor,include,alimentary tract and metabolism,
+levocarnitine,levocarnitin(a|e),include,alimentary tract and metabolism,
+levofloxacin,levaquin,include,antimicrobial,antibacterial
+levofloxacin,levofloxacin,include,antimicrobial,antibacterial
+levofloxacin,quinsair,include,antimicrobial,antibacterial
+levoketoconazole,levoketoconazole,include,corticosteroid,antiadrenal preperations
+levonadifloxacin,levonadifloxacin,include,antimicrobial,antibacterial
+levonorgestrel,levonorgestrel,include,genito urinary system and sex hormones,
+levothyroxine,^synthroid,include,systemic hormonal preparations excl sex hormones and insulins,
+levothyroxine,levothyroxine,include,systemic hormonal preparations excl sex hormones and insulins,
+levotiroxine,levotiroxin(a|e),include,other,
+lidocaine,^lidocaina,include,,
+lidocaine,^lidocaine,include,,
+lidocaine,buffered\slidocaine,include,,
+lincomycin,lincomycin,include,antimicrobial,antibacterial
+linezolid,linezolid,include,antimicrobial,antibacterial
+linezolid,zyvox,include,antimicrobial,antibacterial
+linezolid,zyvoxam,include,antimicrobial,antibacterial
+liothyronine,^liothyronine,include,systemic hormonal preparations excl sex hormones and insulins,
+lisdexamfetamine,^lisdexamfetamine,include,nervous system,
+lisdexamfetamine,^vyvanse,include,nervous system,
+lisinopril,lisinopril,include,cardiovascular system,
+lomefloxacin,lomefloxacin,include,antimicrobial,antibacterial
+loperamide,^imodium\sa-d,include,,
+loperamide,loperamid(a|e),include,,
+loracarbef,loracarbef,include,antimicrobial,antibacterial
+loratadine,^claritin,include,antihistamine,
+loratadine,alavert,include,antihistamine,
+loratadine,desloratadine,exclude,antihistamine,
+loratadine,lorat(a|i)din(a|e),include,antihistamine,
+lorazepam,^ativan,include,nervous system,
+lorazepam,lorazepam,include,nervous system,
+lorazepam,lorazepum,include,nervous system,
+losartan,losartan,include,cardiovascular system,
+lovastatin,lovastatin,include,cardiovascular system,
+lymecycline,lymecycline,include,antimicrobial,antibacterial
+lysozyme,lysozyme,include,antimicrobial,antivirals
+magnesium_sulfate,magn(a|e)sium\ssulfate,include,,
+magnesium_sulfate,magn(a|e)sium\ssulphat,include,,
+magnesium_sulfate,sulfato\sde\smagnesio,include,,
+mandelic_acid,mandelic acid,include,antimicrobial,antibacterial
+mannitol,manitol,include,,
+mannitol,mannitol,include,,
+maraviroc,maraviroc,include,antimicrobial,antivirals
+marbofloxacin,marbofloxacin,include,antimicrobial,antibacterial
+maribavir,maribavir,include,antimicrobial,antivirals
+mebendazole,mebendazol,include,antimicrobial,anthelmintic
+mecillinam,mecillinam,include,antimicrobial,antibacterial
+medroxyprogesterone,medrox(y|i)progesteron(a|e),include,,
+mefloquine,mefloquine,include,antimicrobial,antimalarial
+melphalan,^melphalan,include,antineoplastic and immunomodulating agents,
+meningococcal_vaccine,^meningococcal\s.*vaccine,include,vaccine,
+meningococcal_vaccine,vacuna\santimeningococo,include,vaccine,
+meperidine,meperidin(a|e),include,nervous system,
+meprednisone,meprednisone,include,corticosteroid,glucocorticoids
+mercaptopurine,mercaptopurin(a|e),include,,
+meropenem,meropenem,include,antimicrobial,antibacterial
+meropenem,merrem,include,antimicrobial,antibacterial
+meropenem,vabomere,include,antimicrobial,antibacterial
+mesalazine,^apriso,include,alimentary tract and metabolism,
+mesalazine,^asacol,include,alimentary tract and metabolism,
+mesalazine,^canasa,include,alimentary tract and metabolism,
+mesalazine,^delzicol,include,alimentary tract and metabolism,
+mesalazine,^lialda,include,alimentary tract and metabolism,
+mesalazine,^mezavant,include,alimentary tract and metabolism,
+mesalazine,^pentasa,include,alimentary tract and metabolism,
+mesalazine,^rowasa,include,alimentary tract and metabolism,
+mesalazine,^salofalk,include,alimentary tract and metabolism,
+mesalazine,^zaldyon,include,alimentary tract and metabolism,
+mesalazine,mesalamine,include,alimentary tract and metabolism,
+metacycline,metacycline,include,antimicrobial,antibacterial
+metamizole,metamizole,include,nervous system,
+metamizole,metimazol,include,nervous system,
+metampicillin,metampicillin,include,antimicrobial,antibacterial
+metformin,metformin,include,alimentary tract and metabolism,
+methadone,metadona,include,nervous system,
+methadone,methadone,include,nervous system,
+methenamine,methenamine,include,antimicrobial,antibacterial
+methicillin,methicillin,include,antimicrobial,antibacterial
+methocarbamol,methocarbamol,include,musculo-skeletal system,
+methocarbamol,metocarbamol,include,musculo-skeletal system,
+methotrexate,methotrexate,include,antineoplastic and immunomodulating agent,
+methotrimeprazine,levomepromazina,include,nervous system,
+methylnaltrexone,^methylnaltrexone,include,,
+methylphenidate,^concerta,include,nervous system,
+methylphenidate,methylphenidate,include,nervous system,
+methylphenidate,metilfenidato,include,nervous system,
+methylprednisolone,^inv,exclude,corticosteroid,glucocorticoids
+methylprednisolone,^irb,exclude,corticosteroid,glucocorticoids
+methylprednisolone,^solu-medrol$,include,corticosteroid,glucocorticoids
+methylprednisolone,^study,exclude,corticosteroid,glucocorticoids
+methylprednisolone,depo.*medrol,include,corticosteroid,glucocorticoids
+methylprednisolone,hybrisil,include,corticosteroid,glucocorticoids
+methylprednisolone,medroloan,include,corticosteroid,glucocorticoids
+methylprednisolone,methyl.*prednisolone,include,corticosteroid,glucocorticoids
+methylprednisolone,readysharp,include,corticosteroid,glucocorticoids
+methylprednisone,methyl.*prednisone,include,other,
+metoclopramide,gimoti,include,alimentary tract and metabolism,
+metoclopramide,metoclopramid(a|e),include,alimentary tract and metabolism,
+metoclopramide,reglan,include,alimentary tract and metabolism,
+metolazone,^metolazone,include,cardiovascular system,
+metoprolol,metoprolol,include,cardiovascular system,
+metronidazole,flagyl,include,antimicrobial,antibacterial
+metronidazole,flagystatin,include,antimicrobial,antibacterial
+metronidazole,metrocream,include,antimicrobial,antibacterial
+metronidazole,metrogel,include,antimicrobial,antibacterial
+metronidazole,metrolotion,include,antimicrobial,antibacterial
+metronidazole,metronidazol,include,antimicrobial,antibacterial
+metronidazole,metronidazole,include,antimicrobial,antibacterial
+metronidazole,nidagel,include,antimicrobial,antibacterial
+metronidazole,noritate,include,antimicrobial,antibacterial
+metronidazole,nuvessa,include,antimicrobial,antibacterial
+metronidazole,pylera,include,antimicrobial,antibacterial
+metronidazole,rosadan,include,antimicrobial,antibacterial
+metronidazole,vandazole,include,antimicrobial,antibacterial
+mezlocillin,mezlocillin,include,antimicrobial,antibacterial
+micafungin,micafungin,include,antimicrobial,antimycotics
+micafungin,mycamine,include,antimicrobial,antimycotics
+miconazole,fungidal,include,antimicrobial,antimycotics
+miconazole,miconazole,include,antimicrobial,antimycotics
+midazolam,^versed,include,nervous system,
+midazolam,midazolam,include,nervous system,
+midecamycin,midecamycin,include,antimicrobial,antibacterial
+midodrine,^midodrine,include,,
+milrinone,^inv,exclude,vasoactive,
+milrinone,milrinon(a|e),include,vasoactive,
+minocycline,minocycline,include,antimicrobial,antibacterial
+minoxidil,minoxidil,include,cardiovascular system,
+miocamycin,miocamycin,include,antimicrobial,antibacterial
+mirtazapine,^mirtazapine,include,nervous system,
+misoprostol,misoprostol,include,,
+molnupiravir,molnupiravir,include,antimicrobial,antivirals
+mometasone_furoate,^mometasone\sfuro,include,,
+mometasone_furoate,^nasonex,include,,
+montelukast,^singulair,include,respiratory system,
+montelukast,montelukast,include,respiratory system,
+montmorillonite,^montmorillonite,include,,
+morbilli_immunoglobulin,morbilli immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+morinamide,morinamide,include,antimicrobial,antimycobacterials
+moroxydine,moroxydine,include,antimicrobial,antivirals
+morphine,morfina,include,nervous system,
+morphine,morphine,include,nervous system,
+motavizumab,motavizumab,include,antimicrobial,immune sera and immunoglobulins
+moxifloxacin,avelox,include,antimicrobial,antibacterial
+moxifloxacin,moxeza,include,antimicrobial,antibacterial
+moxifloxacin,moxifloxacin,include,antimicrobial,antibacterial
+moxifloxacin,vigamox,include,antimicrobial,antibacterial
+mupirocin,^bactroban,include,,
+mupirocin,mupirocin,include,,
+mycophenolate_mofetil,cellcept,include,,
+mycophenolate_mofetil,micofenolato,include,,
+mycophenolate_mofetil,mycophenolate,include,,
+mycophenolate_mofetil,myfenax,include,,
+mycophenolic_acid,^mycophenolic\sacid,include,,
+nadolol,^nadolol,include,cardiovascular system,
+nadroparin,nadroparin,include,blood and blood forming organs,
+nadroparin,nadroparina,include,blood and blood forming organs,
+nafcillin,nafcillin,include,antimicrobial,antibacterial
+nalbuphine,nalbuphine,include,nervous system,
+nalidixic_acid,nalidixic acid,include,antimicrobial,antibacterial
+naloxone,naloxon(a|e),include,,
+naltrexone,^contrave,include,,
+naltrexone,^embeda,include,,
+naltrexone,^methylnaltrexone,exclude,,
+naltrexone,^naltrexone,include,,
+naltrexone,^vivitrol,include,,
+naproxen,naproxen,include,,
+naproxen,naproxeno,include,,
+nebacumab,nebacumab,include,antimicrobial,immune sera and immunoglobulins
+nelfinavir,nelfinavir,include,antimicrobial,antivirals
+nemonoxacin,nemonoxacin,include,antimicrobial,antibacterial
+neomycin,neomic,include,antimicrobial,antibacterial
+neomycin,neomycin,include,antimicrobial,antibacterial
+neostigmine,neostigmine,include,nervous system,
+netilmicin,netilmicin,include,antimicrobial,antibacterial
+nevirapine,nevirapine,include,antimicrobial,antivirals
+nicardipine,nicardipine,include,,
+nicotine,^habitrol,include,,
+nicotine,^nicoderm,include,,
+nicotine,^nicorelief,include,,
+nicotine,^nicorette,include,,
+nicotine,^nicotine,include,,
+nicotine,^nicotrol,include,,
+nifedipine,^procardia,include,cardiovascular system,
+nifedipine,nifedipin(a|e),include,cardiovascular system,
+nifurpirinol,nifurpirinol,include,antimicrobial,antibacterial
+nifurtoinol,nifurtoinol,include,antimicrobial,antibacterial
+nimodipine,nimodipin(a|e),include,cardiovascular system,
+nirmatrelvir,nirmatrelvir,include,antimicrobial,antivirals
+nirsevimab,nirsevimab,include,antimicrobial,immune sera and immunoglobulins
+nitazoxanide,nitazoxanide,include,antimicrobial,other
+nitrofural,nitrofural,include,,
+nitrofural,nitrofurazona,include,,
+nitrofurantoin,furadantin,include,antimicrobial,antibacterial
+nitrofurantoin,macrobid,include,antimicrobial,antibacterial
+nitrofurantoin,macrodantin,include,antimicrobial,antibacterial
+nitrofurantoin,nitrofurantoin,include,antimicrobial,antibacterial
+nitroprusside,nitroprusside,include,cardiovascular system,
+nitroxoline,nitroxoline,include,antimicrobial,antibacterial
+non_formulary_medication,non-formulary\smedication,include,,
+non_formulary_medication,nonformulary\smedication,include,,
+norepinephrine,levophed,include,vasoactive,
+norepinephrine,nor-adrinaline,include,vasoactive,
+norepinephrine,noradrenaline,include,vasoactive,
+norepinephrine,norepinephrine,include,vasoactive,
+norfloxacin,norfloxacin,include,antimicrobial,antibacterial
+norgestrel,^norgestrel,include,genito urinary system and sex hormones,
+novobiocin,novobiocin,include,antimicrobial,antibacterial
+nystatin,^mycostatin,include,,
+nystatin,nistatina,include,,
+nystatin,nysfungin,include,,
+nystatin,nystatin,include,,
+obiltoxaximab,obiltoxaximab,include,antimicrobial,immune sera and immunoglobulins
+octreotide,octreotid(a|e),include,systemic hormonal preparations excl sex hormones and insulins,
+ofloxacin,^floxin\sotic,include,antimicrobial,antibacterial
+ofloxacin,ciprofloxacin,exclude,antimicrobial,antibacterial
+ofloxacin,ofloxacin,include,antimicrobial,antibacterial
+olanzapine,olanzapin(a|e),include,nervous system,
+olanzapine,zyprexa,include,nervous system,
+olaquindox,olaquindox,include,antimicrobial,antibacterial
+oleandomycin,oleandomycin,include,antimicrobial,antibacterial
+olopatadine,^olopatadine,include,,
+omadacycline,omadacycline,include,antimicrobial,antibacterial
+omeprazole,omeprazol,include,alimentary tract and metabolism,
+omeprazole,omeprazole,include,alimentary tract and metabolism,
+omeprazole,prilosec,include,alimentary tract and metabolism,
+ondansetron,ondansetron,include,alimentary tract and metabolism,
+ondansetron,zofran,include,alimentary tract and metabolism,
+ondansetron,zuplenz,include,alimentary tract and metabolism,
+orbifloxacin,orbifloxacin,include,antimicrobial,antibacterial
+oritavancin,oritavancin,include,antimicrobial,antibacterial
+ornidazole,ornidazole,include,antimicrobial,antibacterial
+oseltamivir,ebilfumin,include,antimicrobial,antivirals
+oseltamivir,oseltamivir,include,antimicrobial,antivirals
+oseltamivir,tamiflu,include,antimicrobial,antivirals
+osilodrostat,osilodrostat,include,corticosteroid,antiadrenal preperations
+oteseconazole,oteseconazole,include,antimicrobial,antimycotics
+oxacillin,\w+oxacillin,exclude,antimicrobial,antibacterial
+oxacillin,oxacilina,include,antimicrobial,antibacterial
+oxacillin,oxacillin,include,antimicrobial,antibacterial
+oxcarbazepine,oxcarbazepin(a|e),include,nervous system,
+oxcarbazepine,oxtellar,include,nervous system,
+oxcarbazepine,trileptal,include,nervous system,
+oxolinic_acid,oxolinic acid,include,antimicrobial,antibacterial
+oxybutynin,^ditropan,include,genito urinary system and sex hormones,
+oxybutynin,oxibutinina,include,genito urinary system and sex hormones,
+oxybutynin,oxybutynin,include,genito urinary system and sex hormones,
+oxycodone,^percocet,include,nervous system,
+oxycodone,^roxicet,include,nervous system,
+oxycodone,^roxicodone,include,nervous system,
+oxycodone,oxycodon(a|e),include,nervous system,
+oxymetazoline,^afrin,include,,
+oxymetazoline,ox(y|i)metazolin(a|e),include,,
+oxytetracycline,oxytetracycline,include,antimicrobial,antibacterial
+oxytocin,oxitocina,include,,
+oxytocin,oxytocin,include,,
+oxytocin,pitocin,include,,
+palivizumab,palivizumab,include,antimicrobial,immune sera and immunoglobulins
+pancreatin,pancreatin,include,,
+pancrelipase,pancrelipase,include,alimentary tract and metabolism,
+pantoprazole,^protonix,include,alimentary tract and metabolism,
+pantoprazole,pantoprazole,include,alimentary tract and metabolism,
+papaverine,papaverine,include,,
+paramethasone,paramethasone,include,corticosteroid,glucocorticoids
+parenteral_nutrition,^tpn,include,other,
+parenteral_nutrition,nutricion\sparenteral,include,other,
+parenteral_nutrition,parenteral\snutrition,include,other,
+parenteral_nutrition,pediatric\sion\sbased\spn,include,other,
+paromomycin,paromomycin,include,antimicrobial,antibacterial
+parotitis_immunoglobulin,parotitis immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+pazufloxacin,pazufloxacin,include,antimicrobial,antibacterial
+pefloxacin,pefloxacin,include,antimicrobial,antibacterial
+pegaspargase,^pegaspargase,include,,
+pegfilgrastim,^peg-filgrastim,include,,
+pegfilgrastim,^pegfilgrastim,include,,
+penamecillin,penamecillin,include,antimicrobial,antibacterial
+penciclovir,penciclovir,include,antimicrobial,antivirals
+penimepicycline,penimepicycline,include,antimicrobial,antibacterial
+pentamidine,^pentamidine,include,antimicrobial,antimycotics
+pentanedioic_acid_imidazolyl_ethanamide,pentanedioic acid imidazolyl ethanamide,include,antimicrobial,antivirals
+pentobarbital,^nembutal,include,nervous system,
+pentobarbital,pentobarbital,include,nervous system,
+pentoxifylline,pentoxifilina,include,,
+pentoxifylline,pentoxifylline,include,,
+peramivir,peramivir,include,antimicrobial,antivirals
+permethrin,permethrin,include,antiparasitic products insecticides and repellents,
+permethrin,permetrina,include,antiparasitic products insecticides and repellents,
+pertussis_immunoglobulin,pertussis immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+phenazopyridine,^phenazopyridine,include,genito urinary system and sex hormones,
+pheneticillin,pheneticillin,include,antimicrobial,antibacterial
+phenobarbital,donnatal,include,nervous system,
+phenobarbital,fenobarbital,include,nervous system,
+phenobarbital,luminal,include,nervous system,
+phenobarbital,phenobarb,include,nervous system,
+phenobarbital,phenobarbital,include,nervous system,
+phenobarbital,sezaby,include,nervous system,
+phenol,^chloraseptic,include,,
+phenol,^phenol,include,,
+phenoxymethylpenicillin,phenoxymethylpenicillin,include,antimicrobial,antibacterial
+phenylephrine,^cyclomydril,include,,
+phenylephrine,phenylephrine,include,,
+phenytoin,^fenitoina,include,nervous system,
+phenytoin,^phenytoin,include,nervous system,
+pipemidic_acid,pipemidic acid,include,antimicrobial,antibacterial
+piperacillin,piperacilina,include,antimicrobial,antibacterial
+piperacillin,piperacillin,include,antimicrobial,antibacterial
+piperacillin,pipracil,include,antimicrobial,antibacterial
+piperacillin,zosyn,include,antimicrobial,antibacterial
+piperazine,piperazina,include,antiparasitic products insecticides and repellents,
+piromidic_acid,piromidic acid,include,antimicrobial,antibacterial
+pivampicillin,pivampicillin,include,antimicrobial,antibacterial
+pivmecillinam,pivmecillinam,include,antimicrobial,antibacterial
+plazomicin,plazomicin,include,antimicrobial,antibacterial
+pleconaril,pleconaril,include,antimicrobial,antivirals
+pneumococcal_vaccine,pneumococcal.*vacc.*,include,vaccine,
+pneumococcal_vaccine,vacuna\santineumo,include,vaccine,
+poliovirus_vaccine,poliovirus\svaccine,include,vaccine,
+polyethylene_glycol,miralax,include,,
+polyethylene_glycol,polyethylene\sglycol,include,,
+polymyxin_b,^polytrim,include,antimicrobial,antibacterial
+polymyxin_b,polymyxin b,include,antimicrobial,antibacterial
+posaconazole,noxafil,include,antimicrobial,antimycotics
+posaconazole,posaconazol,include,antimicrobial,antimycotics
+posaconazole,posanol,include,antimicrobial,antimycotics
+potassium_acetate,potassium\sacetate,include,,
+potassium_phosphate,potassium\sphosphate,include,,
+pradofloxacin,pradofloxacin,include,antimicrobial,antibacterial
+pravastatin,^pravastatin,include,,
+prazosin,prazosin,include,cardiovascular system,
+prednisolone_acetate,^pred\sforte,include,corticosteroid,glucocorticoids
+prednisolone_phosphate,^orapred,include,corticosteroid,glucocorticoids
+prednisolone,methyl,exclude,corticosteroid,glucocorticoids
+prednisolone,millipred,include,corticosteroid,glucocorticoids
+prednisolone,prednisolon(a|e),include,corticosteroid,glucocorticoids
+prednisone,deltasone,include,corticosteroid,glucocorticoids
+prednisone,prednisone,include,corticosteroid,glucocorticoids
+prednisone,rayos,include,corticosteroid,glucocorticoids
+prednisone,winpred,include,corticosteroid,glucocorticoids
+prednylidene,prednylidene,include,corticosteroid,glucocorticoids
+pregabalin,^lyrica,include,nervous system,
+pregabalin,pregabalin,include,nervous system,
+pretomanid,pretomanid,include,antimicrobial,antimycobacterials
+primaquine,primaquin(a|e),include,antimicrobial,antimalarial
+pristinamycin,pristinamycin,include,antimicrobial,antibacterial
+probenecid,^probenecid,include,,
+procainamide,^procainamide,include,cardiovascular system,
+procainamide,^procan,include,cardiovascular system,
+prochlorperazine,^compazine,include,nervous system,
+prochlorperazine,prochlorperazine,include,nervous system,
+promethazine,^phenergan,include,antihistamine,
+promethazine,promethazine,include,antihistamine,
+proparacaine,^proparacaine,include,sensory organs,
+propicillin,propicillin,include,antimicrobial,antibacterial
+propofol,propofol,include,nervous system,
+propranolol,propanolol,include,,
+propranolol,propranolol,include,,
+propylthiouracil,propiltiouracilo,include,systemic hormonal preparations excl sex hormones and insulins,
+propylthiouracil,propylthiouracil,include,systemic hormonal preparations excl sex hormones and insulins,
+protionamide,protionamide,include,antimicrobial,antimycobacterials
+prulifloxacin,prulifloxacin,include,antimicrobial,antibacterial
+pyrantel,p(y|i)rantel,include,antiparasitic products insecticides and repellents,
+pyrazinamide,pirazinamida,include,antimicrobial,antimycobacterials
+pyrazinamide,pyrazinamide,include,antimicrobial,antimycobacterials
+pyrazinamide,rifater,include,antimicrobial,antimycobacterials
+pyrazinamide,rimstar,include,antimicrobial,antimycobacterials
+pyrazinamide,tebrazid,include,antimicrobial,antimycobacterials
+pyridostigmine,p(y|i)ridostigmin(a|e),include,nervous system,
+pyridoxine,p(y|i)ridoxin(a|e),include,vitamins,B6
+pyrimethamine,pirimetamina,include,antiparasitic products insecticides and repellents,
+pyrimethamine,pyrimethamine,include,antiparasitic products insecticides and repellents,
+quetiapine,quetiapin(a|e),include,nervous system,
+quinine,quinin(a|e),include,,
+quinupristin_dalfopristin,quinupristin\/dalfopristin,include,antimicrobial,antibacterial
+rabies_immunoglobulin,rabies immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+rabies_serum,rabies serum,include,antimicrobial,immune sera and immunoglobulins
+rabies_vaccine,^rabies\svaccine,include,vaccine,
+racepinephrine,racepinephrine,include,,
+raltegravir,raltegravir,include,antimicrobial,antivirals
+ranitidine,ranitidin(a|e),include,alimentary tract and metabolism,
+ranitidine,wal-zan,include,alimentary tract and metabolism,
+ranitidine,zantac,include,alimentary tract and metabolism,
+raxibacumab,raxibacumab,include,antimicrobial,immune sera and immunoglobulins
+regdanvimab,regdanvimab,include,antimicrobial,immune sera and immunoglobulins
+remdesivir,remdesivir,include,antimicrobial,antivirals
+remifentanil,remifentanil,include,nervous system,
+rezafungin_acetate,rezafungin,include,antimicrobial,antimycotics
+ribavirin,ribavirin,include,antimicrobial,antivirals
+ribostamycin,ribostamycin,include,antimicrobial,antibacterial
+rifabutin,rifabutin,include,antimicrobial,antimycobacterials
+rifampicin,fdc\stab,include,antimicrobial,antimycobacterials
+rifampicin,isoarif,include,antimicrobial,antimycobacterials
+rifampicin,rifadin,include,antimicrobial,antimycobacterials
+rifampicin,rifamate,include,antimicrobial,antimycobacterials
+rifampicin,rifampicin,include,antimicrobial,antimycobacterials
+rifampicin,rifampin,include,antimicrobial,antimycobacterials
+rifampicin,rifater,include,antimicrobial,antimycobacterials
+rifampicin,rimactazid,include,antimicrobial,antimycobacterials
+rifampicin,rimstar,include,antimicrobial,antimycobacterials
+rifampicin,rofact,include,antimicrobial,antimycobacterials
+rifamycin,rifamycin,include,antimicrobial,antimycobacterials
+rifapentin,rifapentin,include,antimicrobial,antimycobacterials
+rifaximin,^rifaximin,include,antimicrobial,antibacterial
+rilpivirine,rilpivirine,include,antimicrobial,antivirals
+rimantadine,rimantadine,include,antimicrobial,antivirals
+rimexolone,rimexolone,include,corticosteroid,glucocorticoids
+risperidone,^risperdal,include,nervous system,
+risperidone,risperidon(a|e),include,nervous system,
+ritonavir,ritonavir,include,antimicrobial,antivirals
+rituximab,rituximab,include,antineoplastic and immunomodulating agent,
+rocuronium,rocuronio,include,musculo-skeletal system,
+rocuronium,rocuronium,include,musculo-skeletal system,
+rokitamycin,rokitamycin,include,antimicrobial,antibacterial
+rolitetracycline,rolitetracycline,include,antimicrobial,antibacterial
+ropivacaine,ropivacaine,include,nervous system,
+rosoxacin,rosoxacin,include,antimicrobial,antibacterial
+roxithromycin,roxithromycin,include,antimicrobial,antibacterial
+rubella_immunoglobulin,rubella immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+rufinamide,^banzel,include,nervous system,
+rufinamide,rufinamide,include,nervous system,
+rufloxacin,rufloxacin,include,antimicrobial,antibacterial
+salbutamol,albuterol,include,respiratory system,
+salbutamol,salbutamol,include,respiratory system,
+salmeterol,^advair,include,respiratory system,
+salmeterol,salmeterol,include,respiratory system,
+saquinavir,saquinavir,include,antimicrobial,antivirals
+sarafloxacin,sarafloxacin,include,antimicrobial,antibacterial
+sarecycline,sarecycline,include,antimicrobial,antibacterial
+sargramostim,^sargramostim,include,,
+sennosides,^senokot,include,,
+sennosides,sennosides,include,,
+sertraline,^zoloft,include,nervous system,
+sertraline,sertralin(a|e),include,nervous system,
+sildenafil,revatio,include,,
+sildenafil,sildenafil,include,,
+sildenafil,viagra,include,,
+sildenafil,vizarsin,include,,
+silver_sulfadiazine,^silvadene,include,dermatologicals,
+simeprevir,^oysco,include,antimicrobial,antivirals
+simeprevir,simeprevir,include,antimicrobial,antivirals
+simethicone,simethicone,include,,
+sirolimus,^rapamune,include,,
+sirolimus,sirolimus,include,,
+sisomicin,sisomicin,include,antimicrobial,antibacterial
+sitafloxacin,sitafloxacin,include,antimicrobial,antibacterial
+snake_venom_antiserum,snake venom antiserum,include,antimicrobial,immune sera and immunoglobulins
+sodium_acetate,sodium\sacetate,include,,
+sodium_aminosalicylate,sodium aminosalicylate,include,antimicrobial,antimycobacterials
+sofosbuvir,sofosbuvir,include,antimicrobial,antivirals
+solithromycin,solithromycin,include,antimicrobial,antibacterial
+somatostatin,^somatostatin,include,,
+sotrovimab,sotrovimab,include,antimicrobial,immune sera and immunoglobulins
+sparfloxacin,sparfloxacin,include,antimicrobial,antibacterial
+spectinomycin,spectinomycin,include,antimicrobial,antibacterial
+spiramycin,spiramycin,include,antimicrobial,antibacterial
+spironolactone,^aldactazide,include,,
+spironolactone,^aldactone,include,,
+spironolactone,espironolactona,include,,
+spironolactone,spironolactone,include,,
+staphylococcus_immunoglobulin,staphylococcus immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+stavudine,stavudine,include,antimicrobial,antivirals
+streptoduocin,streptoduocin,include,antimicrobial,antibacterial
+streptomycin,streptomycin,include,antimicrobial,antibacterial
+sucralfate,^carafate,include,alimentary tract and metabolism,
+sucralfate,sucralfate,include,alimentary tract and metabolism,
+sufentanil,^sufentanil,include,nervous system,
+sulbactam,sulbactam,include,antimicrobial,antibacterial
+sulbenicillin,sulbenicillin,include,antimicrobial,antibacterial
+sulfacetamide,sulfacetamid(a|e),include,antimicrobial,antibacterial
+sulfachlorpyridazine,sulfachlorpyridazine,include,antimicrobial,antibacterial
+sulfadiazine,sulfadiazin(a|e),include,antimicrobial,antibacterial
+sulfadimethoxine,sulfadimethoxine,include,antimicrobial,antibacterial
+sulfadimidine,sulfadimidine,include,antimicrobial,antibacterial
+sulfadoxine,sulfadoxin(a|e),include,antimicrobial,antimalarial
+sulfafurazole,sulfafurazole,include,antimicrobial,antibacterial
+sulfaisodimidine,sulfaisodimidine,include,antimicrobial,antibacterial
+sulfalene,sulfalene,include,antimicrobial,antibacterial
+sulfamazon,sulfamazon,include,antimicrobial,antibacterial
+sulfamerazine,sulfamerazine,include,antimicrobial,antibacterial
+sulfamethizole,sulfamethizole,include,antimicrobial,antibacterial
+sulfamethoxazole,bactrim,include,antimicrobial,antibacterial
+sulfamethoxazole,septra,include,antimicrobial,antibacterial
+sulfamethoxazole,sulfamethoxazole,include,antimicrobial,antibacterial
+sulfamethoxazole,sulfatrim,include,antimicrobial,antibacterial
+sulfamethoxypyridazine,sulfamethoxypyridazine,include,antimicrobial,antibacterial
+sulfametomidine,sulfametomidine,include,antimicrobial,antibacterial
+sulfametoxydiazine,sulfametoxydiazine,include,antimicrobial,antibacterial
+sulfamonomethoxine,sulfamonomethoxine,include,antimicrobial,antibacterial
+sulfamoxole,sulfamoxole,include,antimicrobial,antibacterial
+sulfanilamide,sulfanilamide,include,antimicrobial,antibacterial
+sulfaperin,sulfaperin,include,antimicrobial,antibacterial
+sulfaphenazole,sulfaphenazole,include,antimicrobial,antibacterial
+sulfapyrazole,sulfapyrazole,include,antimicrobial,antibacterial
+sulfapyridine,sulfapyridine,include,antimicrobial,antibacterial
+sulfasalazine,sulfasalazin(a|e),include,,
+sulfathiazole,sulfathiazole,include,antimicrobial,antibacterial
+sulfathiourea,sulfathiourea,include,antimicrobial,antibacterial
+sulfatroxazol,sulfatroxazol,include,antimicrobial,antibacterial
+sulfazuinoxaline,sulfazuinoxaline,include,antimicrobial,antibacterial
+sultamicillin,sultamicilina,include,antimicrobial,antibacterial
+sultamicillin,sultamicillin,include,antimicrobial,antibacterial
+tacrolimus,^hecoria,include,,
+tacrolimus,^prograf,include,,
+tacrolimus,tacrolimus,include,,
+tadalafil,^adcirca,include,,
+tadalafil,^alyq,include,,
+tadalafil,^cialis,include,,
+tadalafil,^entadfi,include,,
+tadalafil,^tadalafil,include,,
+tadalafil,^tadliq,include,,
+talampicillin,talampicillin,include,antimicrobial,antibacterial
+tamsulosin,^flowmax,include,genito urinary system and sex hormones,
+tamsulosin,^jalyn,include,genito urinary system and sex hormones,
+tamsulosin,^tamsulosin,include,genito urinary system and sex hormones,
+tazobactam,tazobacta,include,antimicrobial,antibacterial
+tazobactam,tazobactam,include,antimicrobial,antibacterial
+tazobactam,zerbaxa,include,antimicrobial,antibacterial
+tazobactam,zosyn,include,antimicrobial,antibacterial
+tebipenem_pivoxil,tebipenem pivoxil,include,antimicrobial,antibacterial
+teclozan,teclozan,include,antiparasitic products insecticides and repellents,
+tecovirimat,tecovirimat,include,antimicrobial,antivirals
+tedizolid,tedizolid,include,antimicrobial,antibacterial
+teicoplanin,teicoplanin,include,antimicrobial,antibacterial
+telaprevir,telaprevir,include,antimicrobial,antivirals
+telavancin,telavancin,include,antimicrobial,antibacterial
+telbivudine,telbivudine,include,antimicrobial,antivirals
+telithromycin,telithromycin,include,antimicrobial,antibacterial
+temafloxacin,temafloxacin,include,antimicrobial,antibacterial
+temocillin,temocillin,include,antimicrobial,antibacterial
+tenofovir_alafenamide,tenofovir alafenamide,include,antimicrobial,antivirals
+tenofovir_disoproxil,tenofovir disoproxil,include,antimicrobial,antivirals
+tenofovir,^tenofovir$,include,antimicrobial,antivirals
+terbutaline,terbutalin(a|e),include,respiratory system,
+terizidone,terizidone,include,antimicrobial,antimycobacterials
+tetanus_antitoxin,tetanus antitoxin,include,antimicrobial,immune sera and immunoglobulins
+tetanus_immunoglobulin,tetanus immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+tetrabenazine,^tetrabenazine,include,nervous system,
+tetracycline,tetracycline,include,antimicrobial,antibacterial
+theophylline,teofilina,include,respiratory system,
+theophylline,theophylline,include,respiratory system,
+thiamphenicol,thiamphenicol,include,antimicrobial,antibacterial
+thrombin,^thrombin,include,blood and blood forming organs,
+tiamulin,tiamulin,include,antimicrobial,antibacterial
+ticarcillin,ticarcillin,include,antimicrobial,antibacterial
+tigecycline,tigecycline,include,antimicrobial,antibacterial
+tildipirosin,tildipirosin,include,antimicrobial,antibacterial
+tilmicosin,tilmicosin,include,antimicrobial,antibacterial
+tilorone,tilorone,include,antimicrobial,antivirals
+timolol,timolol,include,,
+tinidazole,tinidazol,include,antimicrobial,antibacterial
+tiocarlide,tiocarlide,include,antimicrobial,antimycobacterials
+tioguanine,tioguanin(a|e),include,antineoplastic and immunomodulating agent,
+tipranavir,tipranavir,include,antimicrobial,antivirals
+tixagevimab,tixagevimab,include,antimicrobial,immune sera and immunoglobulins
+tizanidine,tizanidine,include,musculo-skeletal system,
+tobramycin,bethkis,include,antimicrobial,antibacterial
+tobramycin,kitabis,include,antimicrobial,antibacterial
+tobramycin,tobi,include,antimicrobial,antibacterial
+tobramycin,tobradex,include,antimicrobial,antibacterial
+tobramycin,tobramicina,include,antimicrobial,antibacterial
+tobramycin,tobramycin,include,antimicrobial,antibacterial
+topiramate,^topamax,include,other,
+topiramate,topiramat(e|o),include,other,
+torsemide,torsemide,include,,
+tosufloxacin,tosufloxacin,include,antimicrobial,antibacterial
+tramadol,tramadol,include,nervous system,
+tranexamic_acid,acido\stranexam,include,blood and blood forming organs,
+tranexamic_acid,tranexam,include,blood and blood forming organs,
+tranexamic_acid,tranexamic\sacid,include,blood and blood forming organs,
+trazodone,trazodon(a|e),include,nervous system,
+treprostinil,orenitram,include,blood and blood forming organs,
+treprostinil,remodulin,include,blood and blood forming organs,
+treprostinil,treprostinil,include,blood and blood forming organs,
+treprostinil,tyvaso,include,blood and blood forming organs,
+tretinoin,^tretinoin,include,,
+triamcinolone,triamcinolone,include,corticosteroid,glucocorticoids
+trihexyphenidyl,^artane,include,nervous system,
+trihexyphenidyl,trihexyphenidyl,include,nervous system,
+trilostane,trilostane,include,corticosteroid,antiadrenal preperations
+trimethoprim,^polytrim,include,antimicrobial,antibacterial
+trimethoprim,trimethoprim,include,antimicrobial,antibacterial
+trimethoprim,trimetoprim,include,antimicrobial,antibacterial
+troleandomycin,troleandomycin,include,antimicrobial,antibacterial
+tromantadine,tromantadine,include,antimicrobial,antivirals
+trometamol,tromethamine,include,blood and blood forming organs,
+tropicamide,minims,include,sensory organs,ophhalmologicals
+tropicamide,mydriacyl,include,sensory organs,ophhalmologicals
+tropicamide,paremyd,include,sensory organs,ophhalmologicals
+tropicamide,tropicamid(a|e),include,sensory organs,ophhalmologicals
+trovafloxacin,trovafloxacin,include,antimicrobial,antibacterial
+tuberculin_perified_protein_derivative,^tuberculin,include,other,
+tulathromycin,tulathromycin,include,antimicrobial,antibacterial
+tylosin,tylosin,include,antimicrobial,antibacterial
+tylvalosin,tylvalosin,include,antimicrobial,antibacterial
+typhoid_vaccine,typhoid\svaccine,include,vaccine,
+typhoid_vaccine,vivotif,include,vaccine,
+ubiquinone,ubiquinone,include,cardiovascular system,
+ulipristal,ulipristal,include,genito urinary system and sex hormones,
+umifenovir,umifenovir,include,antimicrobial,antivirals
+urokinase,^urokinase,include,,
+ursodeoxycholic_acid,^actigall,include,alimentary tract and metabolism,
+ursodeoxycholic_acid,^ursodeoxycholic,include,alimentary tract and metabolism,
+ursodeoxycholic_acid,acido\sursodesoxicolico,include,alimentary tract and metabolism,
+ursodeoxycholic_acid,reltone,include,alimentary tract and metabolism,
+ursodeoxycholic_acid,urso\sforte,include,alimentary tract and metabolism,
+ursodeoxycholic_acid,ursodiol,include,alimentary tract and metabolism,
+ustekinumab,ustekinumab,include,antineoplastic and immunomodulating agent,
+vaccinia_immunoglobulin,vaccinia immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+valaciclovir,valac(i|y)clovir,include,antimicrobial,antivirals
+valaciclovir,valtrex,include,antimicrobial,antivirals
+valganciclovir,^valcyte,include,antimicrobial,antivirals
+valganciclovir,valganciclovir,include,antimicrobial,antivirals
+valine,valine,include,amino acid,
+valnemulin,valnemulin,include,antimicrobial,antibacterial
+valproic_acid,^sodium\svalproate,include,nervous system,
+valproic_acid,acido\svalproico,include,nervous system,
+valproic_acid,depakene,include,nervous system,
+valproic_acid,depakote,include,nervous system,
+valproic_acid,divalproex,include,nervous system,
+valproic_acid,epival,include,nervous system,
+valproic_acid,valproate\siv,include,nervous system,
+valproic_acid,valproic\sacid,include,nervous system,
+valsartan,dafiro,include,cardiovascular system,
+valsartan,diovan,include,cardiovascular system,
+valsartan,entresto,include,cardiovascular system,
+valsartan,exforge,include,cardiovascular system,
+valsartan,valsartan,include,cardiovascular system,
+vancomycin,firvanq,include,antimicrobial,antibacterial
+vancomycin,vancocin,include,antimicrobial,antibacterial
+vancomycin,vancomicina,include,antimicrobial,antibacterial
+vancomycin,vancomycin,include,antimicrobial,antibacterial
+varicella_zoster_immunoglobulin,varicella\/zoster immunoglobulin,include,antimicrobial,immune sera and immunoglobulins
+varicella_zoster_vaccine,proquad,include,vaccine,
+varicella_zoster_vaccine,varicella,include,vaccine,
+varicella_zoster_vaccine,varivax,include,vaccine,
+varicella_zoster_vaccine,zostavax,include,vaccine,
+vasopressin,vasopresina,include,vasoactive,
+vasopressin,vasopressin,include,vasoactive,
+vasopressin,vasostrict,include,vasoactive,
+vecuronium,vecuronio,include,musculo-skeletal system,muscle relaxant
+vecuronium,vecuronium,include,musculo-skeletal system,muscle relaxant
+vedolizumab,entryvio,include,other,
+vedolizumab,vedolizumab,include,other,
+venlafaxine,venlafaxine,include,nervous system,
+verapamil,verapamil,include,cardiovascular system,
+vidarabine,vidarabine,include,antimicrobial,antivirals
+vigabatrin,vigabatrin,include,nervous system,
+vinblastine,vinblastin(a|e),include,antineoplastic and immunomodulating agent,
+vincristine,^oncovin,include,antineoplastic and immunomodulating agent,
+vincristine,vincristin(a|e),include,antineoplastic and immunomodulating agent,
+vinorelbine,vinorelbine,include,antineoplastic and immunomodulating agent,
+viper_antivenom,antiofidico\spolivalente,include,,
+virginiamycin,virginiamycin,include,antimicrobial,antibacterial
+vitamins,^biotin,include,other,
+vitamins,^cyanocobalamin,include,other,
+vitamins,^pyridoxal,include,other,
+vitamins,acido\sfolico,include,other,
+vitamins,animal\sshapes,include,other,
+vitamins,aquadeks,include,other,
+vitamins,ascorbic\sacid,include,other,
+vitamins,centrum\skids,include,other,
+vitamins,cholecalciferol,include,other,
+vitamins,cianocobalamina,include,other,
+vitamins,ergocalciferol,include,other,
+vitamins,fat-soluble\svitamin,include,other,
+vitamins,flintstones,include,other,
+vitamins,folic\sacid,include,other,
+vitamins,multi-vitamin,include,other,
+vitamins,multivitamin,include,other,
+vitamins,pediatric\smultivit,include,other,
+vitamins,pediatric\smutiple\svit,include,other,
+vitamins,pediatric\svitamin,include,other,
+vitamins,phytomenadion,include,other,
+vitamins,phytonadione,include,other,
+vitamins,poly-vi-sol,include,other,
+vitamins,poly-vitamin,include,other,
+vitamins,riboflavin,include,other,
+vitamins,thiamine,include,other,
+vitamins,tiamina,include,other,
+vitamins,vit-d\s3,include,other,
+vitamins,vit\sd3,include,other,
+vitamins,vitamin.+,include,other,
+vitamins,vitamina,include,other,
+vitamins,water-soluble\svitamin,include,other,
+von_willebrand_factor_human,von\swillebrand,include,blood and blood forming organs,
+voriconazole,vfend,include,antimicrobial,antimycotics
+voriconazole,voriconazol,include,antimicrobial,antimycotics
+voriconazole,voriconazole,include,antimicrobial,antimycotics
+warfarin,^coumadin,include,antagonist,
+warfarin,^jantoven,include,antagonist,
+warfarin,warfarin,include,antagonist,
+white_petrolatum_mineral_oil,lubrifresh,include,,
+xibornol,xibornol,include,antimicrobial,antibacterial
+xylometazloline,xylomatazoline,include,,
+xylometazloline,xylometazloline,include,,
+yellow_fever_vaccine,yellow\sfever\svaccine,include,vaccine,
+zalcitabine,zalcitabine,include,antimicrobial,antivirals
+zanamivir,relenza,include,antimicrobial,antivirals
+zanamivir,zanamivir,include,antimicrobial,antivirals
+zidovudine,zidovudin(a|e),include,antimicrobial,antivirals
+zileuton,zyflo,include,leukotrene synthesis inhibitor,
+zinc_sulfate,zinc\ssulfate,include,other,
+zinc,^zinc,include,,
+ziprasidone,ziprasidone,include,antipsychotic,
+zoledronic_acid,zoledronic\sacid,include,other,
+zolpidem,zolpidem,include,anticonvulsant,
+zonisamide,zonegran,include,anticonvulsant,
+zonisamide,zonisade,include,anticonvulsant,
+zonisamide,zonisamide,include,anticonvulsant,
